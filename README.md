@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is my personal GitHub README. Here you can read something about my developing/programming life, skills etc.
 <!--
 **HAUDRAUFHAUN/HAUDRAUFHAUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🔭 I’m currently working on ...
+- <a href="https://github.com/HAUDRAUFHAUN/wlke">wlke</a>
+- <a href="https://haudraufhaun.github.io/2020/07/23/simple-blog.html">simple-blog</a>
+- <a href="https://github.com/HAUDRAUFHAUN/markdowner">markdowner</a>
+- <a href="https://haudraufhaun.github.io">My personal website and blog</a>
+
+## 🌱 I’m currently learning ...
+- `React JS`
+- Advanced Python `Django` Stuff 
+  - REST API's with `django-rest-framework`
+- `CSS` (of course since I learned it at last time, i didn't had knowledge that you can animate things with CSS😱)

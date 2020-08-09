@@ -20,6 +20,17 @@ Here are some ideas to get you started:
 - <a href="https://github.com/HAUDRAUFHAUN/markdowner">markdowner</a>
 - <a href="https://haudraufhaun.github.io">My personal website and blog</a>
 
+## skills
+- `Python`
+  - advanced
+  - `Django` Webframework -> professional
+- `JavaScript`
+  - `React` Libary
+- `Java`
+  - Beginner - Advanced
+- `PHP`
+  - Beginner 
+
 ## 🌱 I’m currently learning ...
 - `React JS`
 - Advanced Python `Django` Stuff 

@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   - Beginner 
 
 ## 🌱 I’m currently learning ...
-- `React JS`
+- `React JS` || `Vue JS` (with `Nuxt JS`)
 - Advanced Python `Django` Stuff 
   - REST API's with `django-rest-framework`
   - using `Django` as backend for `React`

@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 ## 📕 Latest Blog posts (in german)
 
 <!-- BLOG-POST-LIST:START -->
+- [Jekyll &amp; GitHub Pages Tutorial](https://haudraufhaun.github.io/2020/08/02/githubpages-tutorial.html)
+- [Simple-Blog](https://haudraufhaun.github.io/2020/07/23/simple-blog.html)
+- [wlke](https://haudraufhaun.github.io/2020/07/18/wlke.html)
+- [Getting Started](https://haudraufhaun.github.io/2020/07/17/start.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Technologies I use

@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 This is my personal GitHub README. Here you can read something about my developing/programming life, skills etc.
+
 <!--
 **HAUDRAUFHAUN/HAUDRAUFHAUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## 🔭 I’m currently working on ...
+
 - <a href="https://github.com/HAUDRAUFHAUN/wlke">wlke</a>
 - <a href="https://haudraufhaun.github.io/2020/07/23/simple-blog.html">simple-blog</a>
 - <a href="https://github.com/HAUDRAUFHAUN/markdowner">markdowner</a>
 - <a href="https://haudraufhaun.github.io">My personal website and blog</a>
 
 ## skills
+
 - `Python`
   - advanced
   - `Django` Webframework -> professional
@@ -29,11 +34,17 @@ Here are some ideas to get you started:
 - `Java`
   - Beginner - Advanced
 - `PHP`
-  - Beginner 
+  - Beginner
 
 ## 🌱 I’m currently learning ...
+
 - `React JS` || `Vue JS` (with `Nuxt JS`)
-- Advanced Python `Django` Stuff 
+- Advanced Python `Django` Stuff
   - REST API's with `django-rest-framework`
   - using `Django` as backend for `React`
 - `CSS` (of course since I learned it at last time, i didn't had knowledge that you can animate things with CSS😱)
+
+# Latest Blog posts (in german)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

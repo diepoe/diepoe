@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   - using `Django` as backend for `React`
 - `CSS` (of course since I learned it at last time, i didn't had knowledge that you can animate things with CSS😱)
 
-# Latest Blog posts (in german)
+## 📕 Latest Blog posts (in german)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

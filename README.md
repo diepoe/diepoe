@@ -52,5 +52,7 @@ Here are some ideas to get you started:
 - [wlke](https://haudraufhaun.github.io/2020/07/18/wlke.html)
 - [Getting Started](https://haudraufhaun.github.io/2020/07/17/start.html)
 <!-- BLOG-POST-LIST:END -->
+↪ (more blogposts)[https://haudraufhaun.github.io/blog/]
 
 ## 💻 Technologies I use
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png) ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png)

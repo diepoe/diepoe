@@ -49,12 +49,14 @@ Here are some ideas to get you started:
 ## 📕 Latest Blog posts (in german)
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Jekyll &amp; GitHub Pages Tutorial](https://haudraufhaun.github.io/2020/08/02/githubpages-tutorial.html)
 - [Simple-Blog](https://haudraufhaun.github.io/2020/07/23/simple-blog.html)
 - [wlke](https://haudraufhaun.github.io/2020/07/18/wlke.html)
 - [Getting Started](https://haudraufhaun.github.io/2020/07/17/start.html)
-<!-- BLOG-POST-LIST:END -->
-↪ (more blogposts)[https://haudraufhaun.github.io/blog/]
+  <!-- BLOG-POST-LIST:END -->
+  ↪ (more blogposts)[https://haudraufhaun.github.io/blog/]
 
 ## 💻 Technologies I use
-![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png) ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png) ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png) ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
+
+<img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img align="center" alt="Django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"> <img align="center" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img align="center" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">

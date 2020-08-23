@@ -31,6 +31,8 @@ Here are some ideas to get you started:
   - `Django` Webframework -> professional
 - `JavaScript`
   - `React` Libary
+  - `Vue`
+    - `Nuxt JS`
 - `Java`
   - Beginner - Advanced
 - `PHP`
@@ -55,4 +57,4 @@ Here are some ideas to get you started:
 ↪ (more blogposts)[https://haudraufhaun.github.io/blog/]
 
 ## 💻 Technologies I use
-![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png) ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png)
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png) ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png) ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png) ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)

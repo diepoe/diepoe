@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Dietrich aka HAUDRAUFHAUN 👋
 
 This is my personal GitHub README. Here you can read something about my developing/programming life, skills etc.
 
@@ -46,21 +46,15 @@ Here are some ideas to get you started:
   - using `Django` as backend for `React`
 - `CSS` (of course since I learned it at last time, i didn't had knowledge that you can animate things with CSS😱)
 
-## 📕 Latest Blog posts 
+## 📕 Latest Blog posts (in german)
 
-### <img align="center" alt="Deutschland" width="30px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fb%2Fba%2FFlag_of_Germany.svg%2F1200px-Flag_of_Germany.svg.png&f=1&nofb=1"> german
 <!-- BLOG-POST-LIST:START -->
-
 - [Jekyll &amp; GitHub Pages Tutorial](https://haudraufhaun.github.io/2020/08/02/githubpages-tutorial.html)
 - [Simple-Blog](https://haudraufhaun.github.io/2020/07/23/simple-blog.html)
 - [wlke](https://haudraufhaun.github.io/2020/07/18/wlke.html)
 - [Getting Started](https://haudraufhaun.github.io/2020/07/17/start.html)
-  <!-- BLOG-POST-LIST:END -->
-  ↪ [mehr Blogposts](https://haudraufhaun.github.io/blog/)
-
-### <img align="center" alt="Union Jack" width="30px" src="https://duckduckgo.com/i/087f6699.png"> english
-↪ [more blogposts](https://haudraufhaun.github.io/en/blog/)
-
+<!-- BLOG-POST-LIST:END -->
+  ↪ (more blogposts)[https://haudraufhaun.github.io/blog/]
 
 ## 💻 Technologies I use
 

@@ -29,10 +29,13 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 
-- ☁ <a href="https://github.com/HAUDRAUFHAUN/wlke">wlke</a>
-- 📙<a href="https://haudraufhaun.github.io/2020/07/23/simple-blog.html">simple-blog</a>
-- <a href="https://github.com/HAUDRAUFHAUN/markdowner">markdowner</a>
-- 🌍 <a href="https://haudraufhaun.github.io">My personal website and blog</a>
+☁ <a href="https://github.com/HAUDRAUFHAUN/wlke">wlke</a>
+
+📙<a href="https://haudraufhaun.github.io/2020/07/23/simple-blog.html">simple-blog</a>
+
+<a href="https://github.com/HAUDRAUFHAUN/markdowner">markdowner</a>
+
+🌍 <a href="https://haudraufhaun.github.io">My personal website and blog</a>
 
 
 ## 🌱 I’m currently learning ...

@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#21](https://github.com//jamesgeorge007/github-activity-readme/issues/21) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+<!--END_SECTION:activity-->
 
 ## 🔭 I’m currently working on ...
 

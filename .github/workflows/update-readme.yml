@@ -1,4 +1,4 @@
-name: Update recent activity
+name: Update README - recent activity
 
 on:
   schedule:

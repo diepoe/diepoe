@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   - REST API's with `django-rest-framework`
   - using `Django` as backend for `React`
 - `CSS` (of course since I learned it at last time, i didn't had knowledge that you can animate things with CSS😱)
- - Tailwind CSS
+  - Tailwind CSS
 
 ## 📕 Latest Blog posts 
 

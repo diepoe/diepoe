@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Stats
 
-![GitHub followers](https://img.shields.io/github/followers/HAUDRAUFHAUN?label=GitHub-Followers&logo=GitHub&style=for-the-badge) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/haudraufhaun?logo=reddit&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/HAUDRAUFHAUN?label=GitHub-Followers&logo=GitHub&style=for-the-badge) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/haudraufhaun?logo=reddit&style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/haudraufhaun1?color=%231da1f2&logo=twitter&logoColor=%231da1f2&style=for-the-badge)
 
 ### ⚡ Recent Activity
 

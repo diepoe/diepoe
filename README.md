@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#178](https://github.com/FD-/RPiPlay/pull/178) in [FD-/RPiPlay](https://github.com/FD-/RPiPlay)
+1. 🎉 Merged PR [#1](https://github.com/HAUDRAUFHAUN/R3chn3r-SwiftUI/pull/1) in [HAUDRAUFHAUN/R3chn3r-SwiftUI](https://github.com/HAUDRAUFHAUN/R3chn3r-SwiftUI)
 <!--END_SECTION:activity-->
 
 ## 🔭 I’m currently working on ...

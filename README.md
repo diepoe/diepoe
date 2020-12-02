@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/HAUDRAUFHAUN/RPiPlay/pull/1) in [HAUDRAUFHAUN/RPiPlay](https://github.com/HAUDRAUFHAUN/RPiPlay)
+1. ❗️ Opened issue [#9390](https://github.com/Homebrew/brew/issues/9390) in [Homebrew/brew](https://github.com/Homebrew/brew)
 <!--END_SECTION:activity-->
 
 ## 🔭 I’m currently working on ...

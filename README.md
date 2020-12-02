@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/barrykn/big-sur-micropatcher/issues/110) in [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher)
+1. 🎉 Merged PR [#1](https://github.com/HAUDRAUFHAUN/RPiPlay/pull/1) in [HAUDRAUFHAUN/RPiPlay](https://github.com/HAUDRAUFHAUN/RPiPlay)
 <!--END_SECTION:activity-->
 
 ## 🔭 I’m currently working on ...

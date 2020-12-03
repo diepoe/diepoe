@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ☁ <a href="https://github.com/HAUDRAUFHAUN/wlke">wlke</a>
 
+👨🏻‍🏫 <a href="https://github.com/HAUDRAUFHAUN/eduteam">eduteam</a>
+
 🌍 <a href="https://haudraufhaun.github.io">My personal website and blog</a>
 
 

@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9390](https://github.com/Homebrew/brew/issues/9390) in [Homebrew/brew](https://github.com/Homebrew/brew)
+1. 🗣 Commented on [#42](https://github.com/jamesgeorge007/github-activity-readme/issues/42) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ## 🔭 I’m currently working on ...

@@ -61,9 +61,6 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
   ↪ [more blogposts](https://haudraufhaun.github.io/blog/)
 
-### <img align="center" alt="Union Jack" width="25px" src="https://duckduckgo.com/i/087f6699.png"> english
-
-↪ [more blogposts](https://haudraufhaun.github.io/en/blog/)
 
 ## 💻 Technologies I use
 

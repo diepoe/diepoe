@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 
-☁ <a href="https://github.com/HAUDRAUFHAUN/wlke">wlke</a>
+👨🏻‍💼 some website projects for clubs in my area
 
 👨🏻‍🏫 <a href="https://github.com/HAUDRAUFHAUN/eduteam">eduteam</a>
 
@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning ...
 
-- `React JS` || `Vue JS` (with `Nuxt JS`)
+- `React JS` `
+- `Vue JS` (with `Nuxt JS`)
+- `Svelte`and `Sapper`
 - Advanced Python `Django` Stuff
   - REST API's with `django-rest-framework`
   - using `Django` as backend for `React`

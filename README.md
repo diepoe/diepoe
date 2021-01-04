@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning ...
 
-- `React JS` `
+- `React JS` 
 - `Vue JS` (with `Nuxt JS`)
 - `Svelte`and `Sapper`
 - Advanced Python `Django` Stuff

@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 
+🎩 [sveltesociety.dev](https://sveltesociety,dev)
+
 👨🏻‍💼 some website projects for clubs in my area
 
 👨🏻‍🏫 <a href="https://github.com/HAUDRAUFHAUN/eduteam">eduteam</a>

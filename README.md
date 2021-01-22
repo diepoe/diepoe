@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/HAUDRAUFHAUN?label=GitHub-Followers&logo=GitHub&style=for-the-badge) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/haudraufhaun?logo=reddit&style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/haudraufhaun1?color=%231da1f2&logo=twitter&logoColor=%231da1f2&style=for-the-badge)
 
+[![HAUDRAUFHAUN's github stats](https://github-readme-stats.vercel.app/api?username=HAUDRAUFHAUN)](https://github.com/anuraghazra/github-readme-stats)
+
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->

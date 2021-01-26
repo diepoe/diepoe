@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#728](https://github.com/tailwindlabs/tailwindcss.com/issues/728) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-2. 💪 Opened PR [#149](https://github.com/svelte-society/sveltesociety.dev/pull/149) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-3. 💪 Opened PR [#148](https://github.com/svelte-society/sveltesociety.dev/pull/148) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-4. 🗣 Commented on [#147](https://github.com/svelte-society/sveltesociety.dev/issues/147) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-5. 💪 Opened PR [#145](https://github.com/svelte-society/sveltesociety.dev/pull/145) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+1. 💪 Opened PR [#151](https://github.com/svelte-society/sveltesociety.dev/pull/151) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+2. ❗️ Opened issue [#728](https://github.com/tailwindlabs/tailwindcss.com/issues/728) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+3. 💪 Opened PR [#149](https://github.com/svelte-society/sveltesociety.dev/pull/149) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+4. 💪 Opened PR [#148](https://github.com/svelte-society/sveltesociety.dev/pull/148) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+5. 🗣 Commented on [#147](https://github.com/svelte-society/sveltesociety.dev/issues/147) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 
 ## 🔭 I’m currently working on ...

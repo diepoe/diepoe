@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#139](https://github.com/svelte-society/sveltesociety.dev/issues/139) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 2. 🗣 Commented on [#139](https://github.com/svelte-society/sveltesociety.dev/issues/139) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-3. 🎉 Merged PR [#151](https://github.com/svelte-society/sveltesociety.dev/pull/151) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-4. 🗣 Commented on [#151](https://github.com/svelte-society/sveltesociety.dev/issues/151) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-5. 💪 Opened PR [#151](https://github.com/svelte-society/sveltesociety.dev/pull/151) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+3. 🗣 Commented on [#139](https://github.com/svelte-society/sveltesociety.dev/issues/139) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+4. 🎉 Merged PR [#151](https://github.com/svelte-society/sveltesociety.dev/pull/151) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+5. 🗣 Commented on [#151](https://github.com/svelte-society/sveltesociety.dev/issues/151) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 
 ## 🔭 I’m currently working on ...

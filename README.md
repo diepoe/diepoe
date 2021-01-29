@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#156](https://github.com/svelte-society/sveltesociety.dev/issues/156) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-2. 💪 Opened PR [#153](https://github.com/svelte-society/sveltesociety.dev/pull/153) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-3. 🗣 Commented on [#139](https://github.com/svelte-society/sveltesociety.dev/issues/139) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-4. 🗣 Commented on [#139](https://github.com/svelte-society/sveltesociety.dev/issues/139) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+1. 🎉 Merged PR [#154](https://github.com/svelte-society/sveltesociety.dev/pull/154) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+2. 🗣 Commented on [#154](https://github.com/svelte-society/sveltesociety.dev/issues/154) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+3. ❗️ Opened issue [#156](https://github.com/svelte-society/sveltesociety.dev/issues/156) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+4. 💪 Opened PR [#153](https://github.com/svelte-society/sveltesociety.dev/pull/153) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 5. 🗣 Commented on [#139](https://github.com/svelte-society/sveltesociety.dev/issues/139) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 

@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 5. 🗣 Commented on [#154](https://github.com/svelte-society/sveltesociety.dev/issues/154) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 
+### top programming languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAUDRAUFHAUN)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔭 I’m currently working on ...
 
 🎩 [sveltesociety.dev](https://sveltesociety,dev)

@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#146](https://github.com/svelte-society/sveltesociety.dev/issues/146) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-2. ❗️ Opened issue [#29](https://github.com/Budibase/website/issues/29) in [Budibase/website](https://github.com/Budibase/website)
-3. ❗️ Opened issue [#189](https://github.com/tailwindlabs/heroicons/issues/189) in [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
-4. 🎉 Merged PR [#155](https://github.com/svelte-society/sveltesociety.dev/pull/155) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-5. 🎉 Merged PR [#154](https://github.com/svelte-society/sveltesociety.dev/pull/154) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+1. ❗️ Opened issue [#159](https://github.com/svelte-society/sveltesociety.dev/issues/159) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+2. 🗣 Commented on [#146](https://github.com/svelte-society/sveltesociety.dev/issues/146) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+3. ❗️ Opened issue [#29](https://github.com/Budibase/website/issues/29) in [Budibase/website](https://github.com/Budibase/website)
+4. ❗️ Opened issue [#189](https://github.com/tailwindlabs/heroicons/issues/189) in [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)
+5. 🎉 Merged PR [#155](https://github.com/svelte-society/sveltesociety.dev/pull/155) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 
 ### top programming languages

@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#209](https://github.com/roxiness/routify-site-2020/pull/209) in [roxiness/routify-site-2020](https://github.com/roxiness/routify-site-2020)
-2. ❗️ Opened issue [#208](https://github.com/roxiness/routify-site-2020/issues/208) in [roxiness/routify-site-2020](https://github.com/roxiness/routify-site-2020)
-3. 💪 Opened PR [#160](https://github.com/svelte-society/sveltesociety.dev/pull/160) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-4. ❗️ Opened issue [#159](https://github.com/svelte-society/sveltesociety.dev/issues/159) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-5. 🗣 Commented on [#146](https://github.com/svelte-society/sveltesociety.dev/issues/146) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+1. 🗣 Commented on [#208](https://github.com/roxiness/routify-site-2020/issues/208) in [roxiness/routify-site-2020](https://github.com/roxiness/routify-site-2020)
+2. 💪 Opened PR [#209](https://github.com/roxiness/routify-site-2020/pull/209) in [roxiness/routify-site-2020](https://github.com/roxiness/routify-site-2020)
+3. ❗️ Opened issue [#208](https://github.com/roxiness/routify-site-2020/issues/208) in [roxiness/routify-site-2020](https://github.com/roxiness/routify-site-2020)
+4. 💪 Opened PR [#160](https://github.com/svelte-society/sveltesociety.dev/pull/160) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+5. ❗️ Opened issue [#159](https://github.com/svelte-society/sveltesociety.dev/issues/159) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 
 ### top programming languages

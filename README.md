@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2738](https://github.com/EFForg/privacybadger/issues/2738) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
-2. 🗣 Commented on [#161](https://github.com/svelte-society/sveltesociety.dev/issues/161) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-3. 💪 Opened PR [#210](https://github.com/roxiness/routify-site-2020/pull/210) in [roxiness/routify-site-2020](https://github.com/roxiness/routify-site-2020)
-4. 🗣 Commented on [#208](https://github.com/roxiness/routify-site-2020/issues/208) in [roxiness/routify-site-2020](https://github.com/roxiness/routify-site-2020)
-5. 💪 Opened PR [#209](https://github.com/roxiness/routify-site-2020/pull/209) in [roxiness/routify-site-2020](https://github.com/roxiness/routify-site-2020)
+1. ❗️ Opened issue [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
+2. ❗️ Opened issue [#2738](https://github.com/EFForg/privacybadger/issues/2738) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
+3. 🗣 Commented on [#161](https://github.com/svelte-society/sveltesociety.dev/issues/161) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+4. 💪 Opened PR [#210](https://github.com/roxiness/routify-site-2020/pull/210) in [roxiness/routify-site-2020](https://github.com/roxiness/routify-site-2020)
+5. 🗣 Commented on [#208](https://github.com/roxiness/routify-site-2020/issues/208) in [roxiness/routify-site-2020](https://github.com/roxiness/routify-site-2020)
 <!--END_SECTION:activity-->
 
 ### top programming languages

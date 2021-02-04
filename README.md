@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
-2. ❗️ Closed issue [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
-3. 🗣 Commented on [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
+1. 💪 Opened PR [#162](https://github.com/svelte-society/sveltesociety.dev/pull/162) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+2. 🗣 Commented on [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
+3. ❗️ Closed issue [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
 4. 🗣 Commented on [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
-5. ❗️ Opened issue [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
+5. 🗣 Commented on [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
 <!--END_SECTION:activity-->
 
 ### top programming languages

@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#162](https://github.com/svelte-society/sveltesociety.dev/pull/162) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-2. 🗣 Commented on [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
-3. ❗️ Closed issue [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
+1. 🗣 Commented on [#136](https://github.com/tailwindlabs/tailwindcss-typography/issues/136) in [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
+2. ❗️ Opened issue [#136](https://github.com/tailwindlabs/tailwindcss-typography/issues/136) in [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
+3. 💪 Opened PR [#162](https://github.com/svelte-society/sveltesociety.dev/pull/162) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 4. 🗣 Commented on [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
-5. 🗣 Commented on [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
+5. ❗️ Closed issue [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
 <!--END_SECTION:activity-->
 
 ### top programming languages

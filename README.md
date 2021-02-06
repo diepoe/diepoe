@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/svelte-society/sveltesociety.dev/issues/163) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-2. 🗣 Commented on [#136](https://github.com/tailwindlabs/tailwindcss-typography/issues/136) in [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
-3. ❗️ Opened issue [#136](https://github.com/tailwindlabs/tailwindcss-typography/issues/136) in [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
-4. 💪 Opened PR [#162](https://github.com/svelte-society/sveltesociety.dev/pull/162) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-5. 🗣 Commented on [#2739](https://github.com/EFForg/privacybadger/issues/2739) in [EFForg/privacybadger](https://github.com/EFForg/privacybadger)
+1. 💪 Opened PR [#165](https://github.com/svelte-society/sveltesociety.dev/pull/165) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+2. 🗣 Commented on [#164](https://github.com/svelte-society/sveltesociety.dev/issues/164) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+3. 🎉 Merged PR [#163](https://github.com/svelte-society/sveltesociety.dev/pull/163) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+4. 🗣 Commented on [#163](https://github.com/svelte-society/sveltesociety.dev/issues/163) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+5. 🗣 Commented on [#136](https://github.com/tailwindlabs/tailwindcss-typography/issues/136) in [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)
 <!--END_SECTION:activity-->
 
 ### top programming languages

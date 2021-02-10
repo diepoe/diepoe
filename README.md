@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/svelte-society/assets/pull/1) in [svelte-society/assets](https://github.com/svelte-society/assets)
-2. 💪 Opened PR [#174](https://github.com/svelte-society/sveltesociety.dev/pull/174) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-3. 🗣 Commented on [#173](https://github.com/svelte-society/sveltesociety.dev/issues/173) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-4. 💪 Opened PR [#173](https://github.com/svelte-society/sveltesociety.dev/pull/173) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-5. 🎉 Merged PR [#170](https://github.com/svelte-society/sveltesociety.dev/pull/170) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+1. 🎉 Merged PR [#175](https://github.com/svelte-society/sveltesociety.dev/pull/175) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+2. 💪 Opened PR [#1](https://github.com/svelte-society/assets/pull/1) in [svelte-society/assets](https://github.com/svelte-society/assets)
+3. 💪 Opened PR [#174](https://github.com/svelte-society/sveltesociety.dev/pull/174) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+4. 🗣 Commented on [#173](https://github.com/svelte-society/sveltesociety.dev/issues/173) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+5. 💪 Opened PR [#173](https://github.com/svelte-society/sveltesociety.dev/pull/173) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 
 ### top programming languages

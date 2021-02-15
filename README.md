@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#177](https://github.com/svelte-society/sveltesociety.dev/pull/177) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-2. 💪 Opened PR [#3](https://github.com/svelte-society/assets/pull/3) in [svelte-society/assets](https://github.com/svelte-society/assets)
-3. 🎉 Merged PR [#1](https://github.com/HAUDRAUFHAUN/assets/pull/1) in [HAUDRAUFHAUN/assets](https://github.com/HAUDRAUFHAUN/assets)
-4. 💪 Opened PR [#1](https://github.com/HAUDRAUFHAUN/assets/pull/1) in [HAUDRAUFHAUN/assets](https://github.com/HAUDRAUFHAUN/assets)
-5. 🗣 Commented on [#1](https://github.com/svelte-society/assets/issues/1) in [svelte-society/assets](https://github.com/svelte-society/assets)
+1. ❗️ Opened issue [#178](https://github.com/svelte-society/sveltesociety.dev/issues/178) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+2. 💪 Opened PR [#177](https://github.com/svelte-society/sveltesociety.dev/pull/177) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+3. 💪 Opened PR [#3](https://github.com/svelte-society/assets/pull/3) in [svelte-society/assets](https://github.com/svelte-society/assets)
+4. 🎉 Merged PR [#1](https://github.com/HAUDRAUFHAUN/assets/pull/1) in [HAUDRAUFHAUN/assets](https://github.com/HAUDRAUFHAUN/assets)
+5. 💪 Opened PR [#1](https://github.com/HAUDRAUFHAUN/assets/pull/1) in [HAUDRAUFHAUN/assets](https://github.com/HAUDRAUFHAUN/assets)
 <!--END_SECTION:activity-->
 
 ### top programming languages

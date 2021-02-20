@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#315](https://github.com/OnionBrowser/OnionBrowser/issues/315) in [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser)
-2. ❗️ Opened issue [#314](https://github.com/OnionBrowser/OnionBrowser/issues/314) in [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser)
-3. 💪 Opened PR [#179](https://github.com/svelte-society/sveltesociety.dev/pull/179) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-4. ❗️ Opened issue [#178](https://github.com/svelte-society/sveltesociety.dev/issues/178) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-5. 💪 Opened PR [#177](https://github.com/svelte-society/sveltesociety.dev/pull/177) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+1. ❗️ Opened issue [#911](https://github.com/denysdovhan/spaceship-prompt/issues/911) in [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)
+2. ❗️ Opened issue [#315](https://github.com/OnionBrowser/OnionBrowser/issues/315) in [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser)
+3. ❗️ Opened issue [#314](https://github.com/OnionBrowser/OnionBrowser/issues/314) in [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser)
+4. 💪 Opened PR [#179](https://github.com/svelte-society/sveltesociety.dev/pull/179) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+5. ❗️ Opened issue [#178](https://github.com/svelte-society/sveltesociety.dev/issues/178) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 
 ### top programming languages

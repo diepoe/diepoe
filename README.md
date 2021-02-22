@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/surfcodes/surf/issues/40) in [surfcodes/surf](https://github.com/surfcodes/surf)
-2. ❗️ Opened issue [#40](https://github.com/surfcodes/surf/issues/40) in [surfcodes/surf](https://github.com/surfcodes/surf)
-3. 🗣 Commented on [#5](https://github.com/surfcodes/surf/issues/5) in [surfcodes/surf](https://github.com/surfcodes/surf)
-4. 💪 Opened PR [#39](https://github.com/surfcodes/surf/pull/39) in [surfcodes/surf](https://github.com/surfcodes/surf)
-5. 🎉 Merged PR [#181](https://github.com/svelte-society/sveltesociety.dev/pull/181) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+1. 🎉 Merged PR [#182](https://github.com/svelte-society/sveltesociety.dev/pull/182) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+2. 🗣 Commented on [#40](https://github.com/surfcodes/surf/issues/40) in [surfcodes/surf](https://github.com/surfcodes/surf)
+3. 🗣 Commented on [#40](https://github.com/surfcodes/surf/issues/40) in [surfcodes/surf](https://github.com/surfcodes/surf)
+4. 🗣 Commented on [#40](https://github.com/surfcodes/surf/issues/40) in [surfcodes/surf](https://github.com/surfcodes/surf)
+5. ❗️ Opened issue [#40](https://github.com/surfcodes/surf/issues/40) in [surfcodes/surf](https://github.com/surfcodes/surf)
 <!--END_SECTION:activity-->
 
 ### top programming languages

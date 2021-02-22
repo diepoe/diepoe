@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/surfcodes/surf/pull/39) in [surfcodes/surf](https://github.com/surfcodes/surf)
-2. 🎉 Merged PR [#181](https://github.com/svelte-society/sveltesociety.dev/pull/181) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-3. ❗️ Opened issue [#911](https://github.com/denysdovhan/spaceship-prompt/issues/911) in [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)
-4. ❗️ Opened issue [#315](https://github.com/OnionBrowser/OnionBrowser/issues/315) in [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser)
-5. ❗️ Opened issue [#314](https://github.com/OnionBrowser/OnionBrowser/issues/314) in [OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser)
+1. 🗣 Commented on [#40](https://github.com/surfcodes/surf/issues/40) in [surfcodes/surf](https://github.com/surfcodes/surf)
+2. ❗️ Opened issue [#40](https://github.com/surfcodes/surf/issues/40) in [surfcodes/surf](https://github.com/surfcodes/surf)
+3. 🗣 Commented on [#5](https://github.com/surfcodes/surf/issues/5) in [surfcodes/surf](https://github.com/surfcodes/surf)
+4. 💪 Opened PR [#39](https://github.com/surfcodes/surf/pull/39) in [surfcodes/surf](https://github.com/surfcodes/surf)
+5. 🎉 Merged PR [#181](https://github.com/svelte-society/sveltesociety.dev/pull/181) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 
 ### top programming languages

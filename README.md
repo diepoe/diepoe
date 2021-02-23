@@ -53,18 +53,17 @@ Here are some ideas to get you started:
 - `Vue JS` (with `Nuxt JS`)
 - `Svelte`and `Sapper`
 - Advanced Python `Django` Stuff
-  - REST API's with `django-rest-framework`
-  - using `Django` as backend for `React`
 - `CSS` (of course since I learned it at last time, i didn't had knowledge that you can animate things with CSS😱)
   - Tailwind CSS
 - `Go`
+- `GraphQl`
 
 ## 📕 Latest Blog posts 
 
 ### 🇩🇪 german
 
 <!-- BLOG-POST-LIST:START -->
-- [Jekyll &amp; GitHub Pages Tutorial](https://haudraufhaun.github.io/blog/jekyll-tutorial/)
+- [Jekyll &amp; GitHub Pages Tutorial](https://haudraufhauns.vercel.app/blog/jekyll-tutorial/)
 
 
 

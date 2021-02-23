@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
-2. 🗣 Commented on [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
-3. ❗️ Opened issue [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
-4. 🗣 Commented on [#40](https://github.com/surfcodes/surf/issues/40) in [surfcodes/surf](https://github.com/surfcodes/surf)
-5. 🎉 Merged PR [#182](https://github.com/svelte-society/sveltesociety.dev/pull/182) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+1. ❗️ Opened issue [#2](https://github.com/dgraph-io/svelte-urql-example/issues/2) in [dgraph-io/svelte-urql-example](https://github.com/dgraph-io/svelte-urql-example)
+2. 🗣 Commented on [#1](https://github.com/dgraph-io/svelte-urql-example/issues/1) in [dgraph-io/svelte-urql-example](https://github.com/dgraph-io/svelte-urql-example)
+3. 🗣 Commented on [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
+4. 🗣 Commented on [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
+5. ❗️ Opened issue [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
 <!--END_SECTION:activity-->
 
 ### top programming languages

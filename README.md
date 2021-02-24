@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/surfcodes/surf/issues/42) in [surfcodes/surf](https://github.com/surfcodes/surf)
-2. ❗️ Opened issue [#2](https://github.com/dgraph-io/svelte-urql-example/issues/2) in [dgraph-io/svelte-urql-example](https://github.com/dgraph-io/svelte-urql-example)
-3. 🗣 Commented on [#1](https://github.com/dgraph-io/svelte-urql-example/issues/1) in [dgraph-io/svelte-urql-example](https://github.com/dgraph-io/svelte-urql-example)
-4. 🗣 Commented on [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
+1. 🗣 Commented on [#42](https://github.com/surfcodes/surf/issues/42) in [surfcodes/surf](https://github.com/surfcodes/surf)
+2. ❗️ Opened issue [#42](https://github.com/surfcodes/surf/issues/42) in [surfcodes/surf](https://github.com/surfcodes/surf)
+3. ❗️ Opened issue [#2](https://github.com/dgraph-io/svelte-urql-example/issues/2) in [dgraph-io/svelte-urql-example](https://github.com/dgraph-io/svelte-urql-example)
+4. 🗣 Commented on [#1](https://github.com/dgraph-io/svelte-urql-example/issues/1) in [dgraph-io/svelte-urql-example](https://github.com/dgraph-io/svelte-urql-example)
 5. 🗣 Commented on [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
 <!--END_SECTION:activity-->
 

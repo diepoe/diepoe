@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 ### top programming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAUDRAUFHAUN)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAUDRAUFHAUN&theme=slateorange&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 I’m currently working on ...
 

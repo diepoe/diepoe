@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/surfcodes/website/issues/1) in [surfcodes/website](https://github.com/surfcodes/website)
-2. 🗣 Commented on [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
+1. 🗣 Commented on [#1](https://github.com/surfcodes/website/issues/1) in [surfcodes/website](https://github.com/surfcodes/website)
+2. ❗️ Opened issue [#1](https://github.com/surfcodes/website/issues/1) in [surfcodes/website](https://github.com/surfcodes/website)
 3. 🗣 Commented on [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
 4. 🗣 Commented on [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
 5. 🗣 Commented on [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)

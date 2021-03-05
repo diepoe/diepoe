@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
 2. 🗣 Commented on [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
 3. 🗣 Commented on [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
-4. 🗣 Commented on [#42](https://github.com/surfcodes/surf/issues/42) in [surfcodes/surf](https://github.com/surfcodes/surf)
+4. 🗣 Commented on [#41](https://github.com/surfcodes/surf/issues/41) in [surfcodes/surf](https://github.com/surfcodes/surf)
 5. 🗣 Commented on [#42](https://github.com/surfcodes/surf/issues/42) in [surfcodes/surf](https://github.com/surfcodes/surf)
 <!--END_SECTION:activity-->
 

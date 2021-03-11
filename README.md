@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#191](https://github.com/svelte-society/sveltesociety.dev/pull/191) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-2. 🗣 Commented on [#4](https://github.com/surfcodes/website/issues/4) in [surfcodes/website](https://github.com/surfcodes/website)
+1. 💪 Opened PR [#5](https://github.com/surfcodes/website/pull/5) in [surfcodes/website](https://github.com/surfcodes/website)
+2. 💪 Opened PR [#191](https://github.com/svelte-society/sveltesociety.dev/pull/191) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 3. 🗣 Commented on [#4](https://github.com/surfcodes/website/issues/4) in [surfcodes/website](https://github.com/surfcodes/website)
 4. 🗣 Commented on [#4](https://github.com/surfcodes/website/issues/4) in [surfcodes/website](https://github.com/surfcodes/website)
-5. 💪 Opened PR [#4](https://github.com/surfcodes/website/pull/4) in [surfcodes/website](https://github.com/surfcodes/website)
+5. 🗣 Commented on [#4](https://github.com/surfcodes/website/issues/4) in [surfcodes/website](https://github.com/surfcodes/website)
 <!--END_SECTION:activity-->
 
 ### top programming languages

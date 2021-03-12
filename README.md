@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/surfcodes/website/issues/5) in [surfcodes/website](https://github.com/surfcodes/website)
-2. 💪 Opened PR [#5](https://github.com/surfcodes/website/pull/5) in [surfcodes/website](https://github.com/surfcodes/website)
-3. 💪 Opened PR [#191](https://github.com/svelte-society/sveltesociety.dev/pull/191) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-4. 🗣 Commented on [#4](https://github.com/surfcodes/website/issues/4) in [surfcodes/website](https://github.com/surfcodes/website)
-5. 🗣 Commented on [#4](https://github.com/surfcodes/website/issues/4) in [surfcodes/website](https://github.com/surfcodes/website)
+1. 🎉 Merged PR [#1](https://github.com/HAUDRAUFHAUN/website/pull/1) in [HAUDRAUFHAUN/website](https://github.com/HAUDRAUFHAUN/website)
+2. 💪 Opened PR [#1](https://github.com/HAUDRAUFHAUN/website/pull/1) in [HAUDRAUFHAUN/website](https://github.com/HAUDRAUFHAUN/website)
+3. 🗣 Commented on [#5](https://github.com/surfcodes/website/issues/5) in [surfcodes/website](https://github.com/surfcodes/website)
+4. 💪 Opened PR [#5](https://github.com/surfcodes/website/pull/5) in [surfcodes/website](https://github.com/surfcodes/website)
+5. 💪 Opened PR [#191](https://github.com/svelte-society/sveltesociety.dev/pull/191) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 
 ### top programming languages

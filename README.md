@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/surfcodes/website/issues/7) in [surfcodes/website](https://github.com/surfcodes/website)
 2. 🗣 Commented on [#7](https://github.com/surfcodes/website/issues/7) in [surfcodes/website](https://github.com/surfcodes/website)
-3. 💪 Opened PR [#7](https://github.com/surfcodes/website/pull/7) in [surfcodes/website](https://github.com/surfcodes/website)
-4. 🗣 Commented on [#6](https://github.com/surfcodes/website/issues/6) in [surfcodes/website](https://github.com/surfcodes/website)
-5. 🗣 Commented on [#3](https://github.com/surfcodes/website/issues/3) in [surfcodes/website](https://github.com/surfcodes/website)
+3. 🗣 Commented on [#7](https://github.com/surfcodes/website/issues/7) in [surfcodes/website](https://github.com/surfcodes/website)
+4. 💪 Opened PR [#7](https://github.com/surfcodes/website/pull/7) in [surfcodes/website](https://github.com/surfcodes/website)
+5. 🗣 Commented on [#6](https://github.com/surfcodes/website/issues/6) in [surfcodes/website](https://github.com/surfcodes/website)
 <!--END_SECTION:activity-->
 
 ### top programming languages

@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/jjranalli/nightwind/issues/6) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
-2. ❗️ Opened issue [#6](https://github.com/jjranalli/nightwind/issues/6) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
-3. 💪 Opened PR [#194](https://github.com/svelte-society/sveltesociety.dev/pull/194) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-4. 💪 Opened PR [#193](https://github.com/svelte-society/sveltesociety.dev/pull/193) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-5. 🗣 Commented on [#49](https://github.com/henriquehbr/svelte-typewriter/issues/49) in [henriquehbr/svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter)
+1. 💪 Opened PR [#59](https://github.com/keystonejs/keystone-5/pull/59) in [keystonejs/keystone-5](https://github.com/keystonejs/keystone-5)
+2. 🗣 Commented on [#6](https://github.com/jjranalli/nightwind/issues/6) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
+3. ❗️ Opened issue [#6](https://github.com/jjranalli/nightwind/issues/6) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
+4. 💪 Opened PR [#194](https://github.com/svelte-society/sveltesociety.dev/pull/194) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+5. 💪 Opened PR [#193](https://github.com/svelte-society/sveltesociety.dev/pull/193) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 
 ### top programming languages

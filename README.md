@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/keystonejs/keystone-5/pull/59) in [keystonejs/keystone-5](https://github.com/keystonejs/keystone-5)
-2. 🗣 Commented on [#6](https://github.com/jjranalli/nightwind/issues/6) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
-3. ❗️ Opened issue [#6](https://github.com/jjranalli/nightwind/issues/6) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
-4. 💪 Opened PR [#194](https://github.com/svelte-society/sveltesociety.dev/pull/194) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-5. 💪 Opened PR [#193](https://github.com/svelte-society/sveltesociety.dev/pull/193) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+1. 🎉 Merged PR [#4](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/4) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
+2. 🎉 Merged PR [#5](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/5) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
+3. 💪 Opened PR [#59](https://github.com/keystonejs/keystone-5/pull/59) in [keystonejs/keystone-5](https://github.com/keystonejs/keystone-5)
+4. 🗣 Commented on [#6](https://github.com/jjranalli/nightwind/issues/6) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
+5. ❗️ Opened issue [#6](https://github.com/jjranalli/nightwind/issues/6) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
 <!--END_SECTION:activity-->
 
 ### top programming languages

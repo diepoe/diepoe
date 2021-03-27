@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#208](https://github.com/roxiness/routify.dev/issues/208) in [roxiness/routify.dev](https://github.com/roxiness/routify.dev)
-2. 🎉 Merged PR [#199](https://github.com/svelte-society/sveltesociety.dev/pull/199) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-3. 🎉 Merged PR [#198](https://github.com/svelte-society/sveltesociety.dev/pull/198) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-4. 🎉 Merged PR [#4](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/4) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
-5. 🎉 Merged PR [#5](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/5) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
+1. 🗣 Commented on [#6](https://github.com/jjranalli/nightwind/issues/6) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
+2. 🗣 Commented on [#208](https://github.com/roxiness/routify.dev/issues/208) in [roxiness/routify.dev](https://github.com/roxiness/routify.dev)
+3. 🎉 Merged PR [#199](https://github.com/svelte-society/sveltesociety.dev/pull/199) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+4. 🎉 Merged PR [#198](https://github.com/svelte-society/sveltesociety.dev/pull/198) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+5. 🎉 Merged PR [#4](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/4) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
 <!--END_SECTION:activity-->
 
 ### top programming languages

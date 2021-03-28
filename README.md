@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - `Vue JS` (with `Nuxt JS`)
 - `Svelte`and `Sapper`
 - Advanced Python `Django` Stuff
-- `CSS` (of course since I learned it at last time, i didn't had knowledge that you can animate things with CSS😱)
+- `CSS`
   - Tailwind CSS
 - `Go`
 - `GraphQl`

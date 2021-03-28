@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#222](https://github.com/pngwn/MDsveX/issues/222) in [pngwn/MDsveX](https://github.com/pngwn/MDsveX)
-2. 💪 Opened PR [#10](https://github.com/surfcodes/website/pull/10) in [surfcodes/website](https://github.com/surfcodes/website)
-3. 🗣 Commented on [#6](https://github.com/jjranalli/nightwind/issues/6) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
-4. 🗣 Commented on [#208](https://github.com/roxiness/routify.dev/issues/208) in [roxiness/routify.dev](https://github.com/roxiness/routify.dev)
-5. 🎉 Merged PR [#199](https://github.com/svelte-society/sveltesociety.dev/pull/199) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+1. 🗣 Commented on [#222](https://github.com/pngwn/MDsveX/issues/222) in [pngwn/MDsveX](https://github.com/pngwn/MDsveX)
+2. ❗️ Opened issue [#222](https://github.com/pngwn/MDsveX/issues/222) in [pngwn/MDsveX](https://github.com/pngwn/MDsveX)
+3. 💪 Opened PR [#10](https://github.com/surfcodes/website/pull/10) in [surfcodes/website](https://github.com/surfcodes/website)
+4. 🗣 Commented on [#6](https://github.com/jjranalli/nightwind/issues/6) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
+5. 🗣 Commented on [#208](https://github.com/roxiness/routify.dev/issues/208) in [roxiness/routify.dev](https://github.com/roxiness/routify.dev)
 <!--END_SECTION:activity-->
 
 ### top programming languages

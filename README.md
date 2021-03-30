@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 ### 🇩🇪 german
 
 <!-- BLOG-POST-LIST:START -->
+- [Sicher im Internet](https://haudraufhauns.vercel.app/blog/sicher-im-internet)
 - [Jekyll &amp; GitHub Pages Tutorial](https://haudraufhauns.vercel.app/blog/jekyll-tutorial/)
 
 

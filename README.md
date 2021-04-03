@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/surfcodes/website/issues/12) in [surfcodes/website](https://github.com/surfcodes/website)
-2. 🗣 Commented on [#12](https://github.com/surfcodes/website/issues/12) in [surfcodes/website](https://github.com/surfcodes/website)
-3. ❗️ Opened issue [#12](https://github.com/surfcodes/website/issues/12) in [surfcodes/website](https://github.com/surfcodes/website)
-4. 🗣 Commented on [#11](https://github.com/surfcodes/website/issues/11) in [surfcodes/website](https://github.com/surfcodes/website)
-5. 💪 Opened PR [#11](https://github.com/surfcodes/website/pull/11) in [surfcodes/website](https://github.com/surfcodes/website)
+1. ❗️ Opened issue [#746](https://github.com/rossjrw/rossjrw/issues/746) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+2. ❗️ Opened issue [#745](https://github.com/rossjrw/rossjrw/issues/745) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+3. 🗣 Commented on [#12](https://github.com/surfcodes/website/issues/12) in [surfcodes/website](https://github.com/surfcodes/website)
+4. 🗣 Commented on [#12](https://github.com/surfcodes/website/issues/12) in [surfcodes/website](https://github.com/surfcodes/website)
+5. ❗️ Opened issue [#12](https://github.com/surfcodes/website/issues/12) in [surfcodes/website](https://github.com/surfcodes/website)
 <!--END_SECTION:activity-->
 
 ### top programming languages

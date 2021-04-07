@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#294](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/294) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
-2. ❗️ Opened issue [#144](https://github.com/TorstenDittmann/OmniaWrite/issues/144) in [TorstenDittmann/OmniaWrite](https://github.com/TorstenDittmann/OmniaWrite)
-3. ❗️ Opened issue [#12300](https://github.com/timburgan/timburgan/issues/12300) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗️ Opened issue [#746](https://github.com/rossjrw/rossjrw/issues/746) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-5. ❗️ Opened issue [#745](https://github.com/rossjrw/rossjrw/issues/745) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+1. ❗️ Opened issue [#12408](https://github.com/timburgan/timburgan/issues/12408) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Opened issue [#12405](https://github.com/timburgan/timburgan/issues/12405) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+3. ❗️ Opened issue [#294](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/294) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+4. ❗️ Opened issue [#144](https://github.com/TorstenDittmann/OmniaWrite/issues/144) in [TorstenDittmann/OmniaWrite](https://github.com/TorstenDittmann/OmniaWrite)
+5. ❗️ Opened issue [#12300](https://github.com/timburgan/timburgan/issues/12300) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 ### top programming languages

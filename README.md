@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/roxiness/stackmix/pull/12) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-2. ❗️ Opened issue [#12408](https://github.com/timburgan/timburgan/issues/12408) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#12405](https://github.com/timburgan/timburgan/issues/12405) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗️ Opened issue [#294](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/294) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
-5. ❗️ Opened issue [#144](https://github.com/TorstenDittmann/OmniaWrite/issues/144) in [TorstenDittmann/OmniaWrite](https://github.com/TorstenDittmann/OmniaWrite)
+1. ❗️ Opened issue [#770](https://github.com/rossjrw/rossjrw/issues/770) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+2. 💪 Opened PR [#12](https://github.com/roxiness/stackmix/pull/12) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+3. ❗️ Opened issue [#12408](https://github.com/timburgan/timburgan/issues/12408) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. ❗️ Opened issue [#12405](https://github.com/timburgan/timburgan/issues/12405) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+5. ❗️ Opened issue [#294](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/294) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
 <!--END_SECTION:activity-->
 
 ### top programming languages

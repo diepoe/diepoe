@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#773](https://github.com/rossjrw/rossjrw/issues/773) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-2. ❗️ Opened issue [#772](https://github.com/rossjrw/rossjrw/issues/772) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-3. ❗️ Opened issue [#770](https://github.com/rossjrw/rossjrw/issues/770) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-4. 💪 Opened PR [#12](https://github.com/roxiness/stackmix/pull/12) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-5. ❗️ Opened issue [#12408](https://github.com/timburgan/timburgan/issues/12408) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 🗣 Commented on [#12](https://github.com/roxiness/stackmix/issues/12) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+2. 🗣 Commented on [#12](https://github.com/roxiness/stackmix/issues/12) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+3. ❗️ Opened issue [#773](https://github.com/rossjrw/rossjrw/issues/773) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+4. ❗️ Opened issue [#772](https://github.com/rossjrw/rossjrw/issues/772) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+5. ❗️ Opened issue [#770](https://github.com/rossjrw/rossjrw/issues/770) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
 <!--END_SECTION:activity-->
 
 ### top programming languages

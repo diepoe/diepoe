@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/roxiness/stackmix/issues/12) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-2. 🗣 Commented on [#12](https://github.com/roxiness/stackmix/issues/12) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-3. ❗️ Opened issue [#773](https://github.com/rossjrw/rossjrw/issues/773) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-4. ❗️ Opened issue [#772](https://github.com/rossjrw/rossjrw/issues/772) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-5. ❗️ Opened issue [#770](https://github.com/rossjrw/rossjrw/issues/770) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+1. 🎉 Merged PR [#6](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/6) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
+2. 🎉 Merged PR [#7](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/7) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
+3. 🗣 Commented on [#12](https://github.com/roxiness/stackmix/issues/12) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+4. 🗣 Commented on [#12](https://github.com/roxiness/stackmix/issues/12) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+5. ❗️ Opened issue [#773](https://github.com/rossjrw/rossjrw/issues/773) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
 <!--END_SECTION:activity-->
 
 ### top programming languages

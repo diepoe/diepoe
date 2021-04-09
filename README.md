@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-2. 🎉 Merged PR [#6](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/6) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
-3. 🎉 Merged PR [#7](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/7) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
-4. 🗣 Commented on [#12](https://github.com/roxiness/stackmix/issues/12) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-5. 🗣 Commented on [#12](https://github.com/roxiness/stackmix/issues/12) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+1. 🗣 Commented on [#104](https://github.com/roxiness/routify-starter/issues/104) in [roxiness/routify-starter](https://github.com/roxiness/routify-starter)
+2. 🎉 Merged PR [#1](https://github.com/HAUDRAUFHAUN/routify-starter/pull/1) in [HAUDRAUFHAUN/routify-starter](https://github.com/HAUDRAUFHAUN/routify-starter)
+3. 💪 Opened PR [#1](https://github.com/HAUDRAUFHAUN/routify-starter/pull/1) in [HAUDRAUFHAUN/routify-starter](https://github.com/HAUDRAUFHAUN/routify-starter)
+4. 💪 Opened PR [#104](https://github.com/roxiness/routify-starter/pull/104) in [roxiness/routify-starter](https://github.com/roxiness/routify-starter)
+5. ❗️ Opened issue [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
 <!--END_SECTION:activity-->
 
 ### top programming languages

@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/roxiness/routify-starter/issues/104) in [roxiness/routify-starter](https://github.com/roxiness/routify-starter)
-2. 🎉 Merged PR [#1](https://github.com/HAUDRAUFHAUN/routify-starter/pull/1) in [HAUDRAUFHAUN/routify-starter](https://github.com/HAUDRAUFHAUN/routify-starter)
-3. 💪 Opened PR [#1](https://github.com/HAUDRAUFHAUN/routify-starter/pull/1) in [HAUDRAUFHAUN/routify-starter](https://github.com/HAUDRAUFHAUN/routify-starter)
-4. 💪 Opened PR [#104](https://github.com/roxiness/routify-starter/pull/104) in [roxiness/routify-starter](https://github.com/roxiness/routify-starter)
-5. ❗️ Opened issue [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+1. 💪 Opened PR [#13](https://github.com/surfcodes/website/pull/13) in [surfcodes/website](https://github.com/surfcodes/website)
+2. 🗣 Commented on [#104](https://github.com/roxiness/routify-starter/issues/104) in [roxiness/routify-starter](https://github.com/roxiness/routify-starter)
+3. 🎉 Merged PR [#1](https://github.com/HAUDRAUFHAUN/routify-starter/pull/1) in [HAUDRAUFHAUN/routify-starter](https://github.com/HAUDRAUFHAUN/routify-starter)
+4. 💪 Opened PR [#1](https://github.com/HAUDRAUFHAUN/routify-starter/pull/1) in [HAUDRAUFHAUN/routify-starter](https://github.com/HAUDRAUFHAUN/routify-starter)
+5. 💪 Opened PR [#104](https://github.com/roxiness/routify-starter/pull/104) in [roxiness/routify-starter](https://github.com/roxiness/routify-starter)
 <!--END_SECTION:activity-->
 
 ### top programming languages

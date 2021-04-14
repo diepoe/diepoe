@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 👨🏻‍🏫 <a href="https://github.com/HAUDRAUFHAUN/eduteam">eduteam</a>
 
+📰 [Feed Scout](https://github.com/HAUDRAUFHAUN/feed-scout)
+
 🌍 <a href="https://haudraufhauns.vercel.app/">My personal website and blog</a>
 
 

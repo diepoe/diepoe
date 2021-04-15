@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/roxiness/stackmix/pull/14) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-2. 💪 Opened PR [#1282](https://github.com/gofiber/fiber/pull/1282) in [gofiber/fiber](https://github.com/gofiber/fiber)
-3. ❗️ Opened issue [#780](https://github.com/rossjrw/rossjrw/issues/780) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-4. 💪 Opened PR [#13](https://github.com/surfcodes/website/pull/13) in [surfcodes/website](https://github.com/surfcodes/website)
-5. 🗣 Commented on [#104](https://github.com/roxiness/routify-starter/issues/104) in [roxiness/routify-starter](https://github.com/roxiness/routify-starter)
+1. ❗️ Reopened issue [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+2. 🗣 Commented on [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+3. 💪 Opened PR [#14](https://github.com/roxiness/stackmix/pull/14) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+4. 💪 Opened PR [#1282](https://github.com/gofiber/fiber/pull/1282) in [gofiber/fiber](https://github.com/gofiber/fiber)
+5. ❗️ Opened issue [#780](https://github.com/rossjrw/rossjrw/issues/780) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
 <!--END_SECTION:activity-->
 
 ### top programming languages

@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-2. 🗣 Commented on [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-3. ❗️ Reopened issue [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+1. ❗️ Closed issue [#294](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/294) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+2. 🗣 Commented on [#294](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/294) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+3. 🗣 Commented on [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
 4. 🗣 Commented on [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-5. 💪 Opened PR [#14](https://github.com/roxiness/stackmix/pull/14) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+5. ❗️ Reopened issue [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
 <!--END_SECTION:activity-->
 
 ### top programming languages

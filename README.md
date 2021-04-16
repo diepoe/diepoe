@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/barrykn/big-sur-micropatcher/issues/120) in [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher)
-2. ❗️ Closed issue [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-3. 🗣 Commented on [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-4. ❗️ Closed issue [#294](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/294) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
-5. 🗣 Commented on [#294](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/294) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+1. 💪 Opened PR [#15](https://github.com/roxiness/stackmix/pull/15) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+2. 🗣 Commented on [#120](https://github.com/barrykn/big-sur-micropatcher/issues/120) in [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher)
+3. ❗️ Closed issue [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+4. 🗣 Commented on [#13](https://github.com/roxiness/stackmix/issues/13) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+5. ❗️ Closed issue [#294](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/294) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
 <!--END_SECTION:activity-->
 
 ### top programming languages

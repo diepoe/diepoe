@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/roxiness/stackmix/pull/17) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-2. 🎉 Merged PR [#205](https://github.com/svelte-society/sveltesociety.dev/pull/205) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-3. 🎉 Merged PR [#207](https://github.com/svelte-society/sveltesociety.dev/pull/207) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-4. 🎉 Merged PR [#206](https://github.com/svelte-society/sveltesociety.dev/pull/206) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-5. 💪 Opened PR [#16](https://github.com/roxiness/stackmix/pull/16) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+1. 💪 Opened PR [#18](https://github.com/roxiness/stackmix/pull/18) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+2. 💪 Opened PR [#17](https://github.com/roxiness/stackmix/pull/17) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+3. 🎉 Merged PR [#205](https://github.com/svelte-society/sveltesociety.dev/pull/205) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+4. 🎉 Merged PR [#207](https://github.com/svelte-society/sveltesociety.dev/pull/207) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+5. 🎉 Merged PR [#206](https://github.com/svelte-society/sveltesociety.dev/pull/206) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 
 ### top programming languages

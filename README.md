@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#19](https://github.com/roxiness/stackmix/pull/19) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-2. 💪 Opened PR [#4](https://github.com/iSaluki/awesome-art/pull/4) in [iSaluki/awesome-art](https://github.com/iSaluki/awesome-art)
-3. 🗣 Commented on [#21](https://github.com/roxiness/stackmix/issues/21) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-4. 💪 Opened PR [#19](https://github.com/roxiness/stackmix/pull/19) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-5. ❌ Closed PR [#18](https://github.com/roxiness/stackmix/pull/18) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+1. ❗️ Opened issue [#758](https://github.com/carloscuesta/gitmoji/issues/758) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+2. ❌ Closed PR [#19](https://github.com/roxiness/stackmix/pull/19) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+3. 💪 Opened PR [#4](https://github.com/iSaluki/awesome-art/pull/4) in [iSaluki/awesome-art](https://github.com/iSaluki/awesome-art)
+4. 🗣 Commented on [#21](https://github.com/roxiness/stackmix/issues/21) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
+5. 💪 Opened PR [#19](https://github.com/roxiness/stackmix/pull/19) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
 <!--END_SECTION:activity-->
 
 ### top programming languages

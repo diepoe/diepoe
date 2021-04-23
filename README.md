@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   - Tailwind CSS
 - `Go`
 - `GraphQl`
-- `Flutter
+- `Flutter`
 
 ## 📕 Latest Blog posts 
 

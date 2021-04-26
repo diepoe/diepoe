@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/edipox/n1-ido/issues/37) in [edipox/n1-ido](https://github.com/edipox/n1-ido)
-2. ❗️ Opened issue [#13](https://github.com/jjranalli/nightwind/issues/13) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
-3. ❗️ Opened issue [#758](https://github.com/carloscuesta/gitmoji/issues/758) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-4. ❌ Closed PR [#19](https://github.com/roxiness/stackmix/pull/19) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
-5. 💪 Opened PR [#4](https://github.com/iSaluki/awesome-art/pull/4) in [iSaluki/awesome-art](https://github.com/iSaluki/awesome-art)
+1. 💪 Opened PR [#38](https://github.com/edipox/n1-ido/pull/38) in [edipox/n1-ido](https://github.com/edipox/n1-ido)
+2. ❗️ Opened issue [#37](https://github.com/edipox/n1-ido/issues/37) in [edipox/n1-ido](https://github.com/edipox/n1-ido)
+3. ❗️ Opened issue [#13](https://github.com/jjranalli/nightwind/issues/13) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
+4. ❗️ Opened issue [#758](https://github.com/carloscuesta/gitmoji/issues/758) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+5. ❌ Closed PR [#19](https://github.com/roxiness/stackmix/pull/19) in [roxiness/stackmix](https://github.com/roxiness/stackmix)
 <!--END_SECTION:activity-->
 
 ### top programming languages

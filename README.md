@@ -1,6 +1,6 @@
 ### Hi there, I'm Dietrich aka HAUDRAUFHAUN 👋
 
-This is my personal GitHub README. Here you can read something about my developing/programming life, skills etc.
+This is my personal GitHub README. Here you can read something about me (very boring I guess).
 
 <!--
 **HAUDRAUFHAUN/HAUDRAUFHAUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

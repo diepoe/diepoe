@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/slogemann1/aerozine/pull/1) in [slogemann1/aerozine](https://github.com/slogemann1/aerozine)
-2. 💪 Opened PR [#39](https://github.com/edipox/n1-ido/pull/39) in [edipox/n1-ido](https://github.com/edipox/n1-ido)
-3. 💪 Opened PR [#38](https://github.com/edipox/n1-ido/pull/38) in [edipox/n1-ido](https://github.com/edipox/n1-ido)
-4. ❗️ Opened issue [#37](https://github.com/edipox/n1-ido/issues/37) in [edipox/n1-ido](https://github.com/edipox/n1-ido)
-5. ❗️ Opened issue [#13](https://github.com/jjranalli/nightwind/issues/13) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
+1. 💪 Opened PR [#2](https://github.com/slogemann1/aerozine/pull/2) in [slogemann1/aerozine](https://github.com/slogemann1/aerozine)
+2. 💪 Opened PR [#1](https://github.com/slogemann1/aerozine/pull/1) in [slogemann1/aerozine](https://github.com/slogemann1/aerozine)
+3. 💪 Opened PR [#39](https://github.com/edipox/n1-ido/pull/39) in [edipox/n1-ido](https://github.com/edipox/n1-ido)
+4. 💪 Opened PR [#38](https://github.com/edipox/n1-ido/pull/38) in [edipox/n1-ido](https://github.com/edipox/n1-ido)
+5. ❗️ Opened issue [#37](https://github.com/edipox/n1-ido/issues/37) in [edipox/n1-ido](https://github.com/edipox/n1-ido)
 <!--END_SECTION:activity-->
 
 ### top programming languages

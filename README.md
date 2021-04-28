@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/DealPete/Sputnik/pull/6) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-2. 💪 Opened PR [#2](https://github.com/slogemann1/aerozine/pull/2) in [slogemann1/aerozine](https://github.com/slogemann1/aerozine)
-3. 💪 Opened PR [#1](https://github.com/slogemann1/aerozine/pull/1) in [slogemann1/aerozine](https://github.com/slogemann1/aerozine)
-4. 💪 Opened PR [#39](https://github.com/edipox/n1-ido/pull/39) in [edipox/n1-ido](https://github.com/edipox/n1-ido)
-5. 💪 Opened PR [#38](https://github.com/edipox/n1-ido/pull/38) in [edipox/n1-ido](https://github.com/edipox/n1-ido)
+1. 🗣 Commented on [#2](https://github.com/slogemann1/aerozine/issues/2) in [slogemann1/aerozine](https://github.com/slogemann1/aerozine)
+2. 💪 Opened PR [#6](https://github.com/DealPete/Sputnik/pull/6) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+3. 💪 Opened PR [#2](https://github.com/slogemann1/aerozine/pull/2) in [slogemann1/aerozine](https://github.com/slogemann1/aerozine)
+4. 💪 Opened PR [#1](https://github.com/slogemann1/aerozine/pull/1) in [slogemann1/aerozine](https://github.com/slogemann1/aerozine)
+5. 💪 Opened PR [#39](https://github.com/edipox/n1-ido/pull/39) in [edipox/n1-ido](https://github.com/edipox/n1-ido)
 <!--END_SECTION:activity-->
 
 ### top programming languages

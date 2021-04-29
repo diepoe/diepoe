@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/DealPete/Sputnik/issues/8) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-2. 💪 Opened PR [#8](https://github.com/DealPete/Sputnik/pull/8) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-3. ❗️ Opened issue [#7](https://github.com/DealPete/Sputnik/issues/7) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-4. 🗣 Commented on [#2](https://github.com/slogemann1/aerozine/issues/2) in [slogemann1/aerozine](https://github.com/slogemann1/aerozine)
-5. 💪 Opened PR [#6](https://github.com/DealPete/Sputnik/pull/6) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+2. 🗣 Commented on [#8](https://github.com/DealPete/Sputnik/issues/8) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+3. 💪 Opened PR [#8](https://github.com/DealPete/Sputnik/pull/8) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+4. ❗️ Opened issue [#7](https://github.com/DealPete/Sputnik/issues/7) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+5. 🗣 Commented on [#2](https://github.com/slogemann1/aerozine/issues/2) in [slogemann1/aerozine](https://github.com/slogemann1/aerozine)
 <!--END_SECTION:activity-->
 
 ### top programming languages

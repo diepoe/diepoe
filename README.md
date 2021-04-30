@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/DealPete/Sputnik/pull/10) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-2. 💪 Opened PR [#10](https://github.com/DealPete/Sputnik/pull/10) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-3. 💪 Opened PR [#9](https://github.com/DealPete/Sputnik/pull/9) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-4. 🗣 Commented on [#8](https://github.com/DealPete/Sputnik/issues/8) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+1. 💪 Opened PR [#11](https://github.com/DealPete/Sputnik/pull/11) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+2. 🎉 Merged PR [#10](https://github.com/DealPete/Sputnik/pull/10) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+3. 💪 Opened PR [#10](https://github.com/DealPete/Sputnik/pull/10) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+4. 💪 Opened PR [#9](https://github.com/DealPete/Sputnik/pull/9) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
 5. 🗣 Commented on [#8](https://github.com/DealPete/Sputnik/issues/8) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
 <!--END_SECTION:activity-->
 

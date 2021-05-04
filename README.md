@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#84](https://github.com/sunknudsen/privacy-guides/issues/84) in [sunknudsen/privacy-guides](https://github.com/sunknudsen/privacy-guides)
-2. 💪 Opened PR [#11](https://github.com/DealPete/Sputnik/pull/11) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-3. 🎉 Merged PR [#10](https://github.com/DealPete/Sputnik/pull/10) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-4. 💪 Opened PR [#10](https://github.com/DealPete/Sputnik/pull/10) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-5. 💪 Opened PR [#9](https://github.com/DealPete/Sputnik/pull/9) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+1. 🎉 Merged PR [#12](https://github.com/DealPete/Sputnik/pull/12) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+2. 💪 Opened PR [#12](https://github.com/DealPete/Sputnik/pull/12) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+3. ❗️ Opened issue [#84](https://github.com/sunknudsen/privacy-guides/issues/84) in [sunknudsen/privacy-guides](https://github.com/sunknudsen/privacy-guides)
+4. 💪 Opened PR [#11](https://github.com/DealPete/Sputnik/pull/11) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+5. 🎉 Merged PR [#10](https://github.com/DealPete/Sputnik/pull/10) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
 <!--END_SECTION:activity-->
 
 ### top programming languages

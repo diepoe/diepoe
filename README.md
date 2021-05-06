@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/DealPete/Sputnik/pull/16) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-2. 💪 Opened PR [#16](https://github.com/DealPete/Sputnik/pull/16) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-3. 🎉 Merged PR [#15](https://github.com/DealPete/Sputnik/pull/15) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-4. 💪 Opened PR [#15](https://github.com/DealPete/Sputnik/pull/15) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-5. 🎉 Merged PR [#14](https://github.com/DealPete/Sputnik/pull/14) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+1. ❗️ Opened issue [#17](https://github.com/DealPete/Sputnik/issues/17) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+2. 🎉 Merged PR [#16](https://github.com/DealPete/Sputnik/pull/16) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+3. 💪 Opened PR [#16](https://github.com/DealPete/Sputnik/pull/16) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+4. 🎉 Merged PR [#15](https://github.com/DealPete/Sputnik/pull/15) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+5. 💪 Opened PR [#15](https://github.com/DealPete/Sputnik/pull/15) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
 <!--END_SECTION:activity-->
 
 ### top programming languages

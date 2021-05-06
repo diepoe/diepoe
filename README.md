@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/lucanaef/PGPro/pull/39) in [lucanaef/PGPro](https://github.com/lucanaef/PGPro)
-2. ❗️ Opened issue [#38](https://github.com/lucanaef/PGPro/issues/38) in [lucanaef/PGPro](https://github.com/lucanaef/PGPro)
-3. 🎉 Merged PR [#13](https://github.com/DealPete/Sputnik/pull/13) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-4. 💪 Opened PR [#13](https://github.com/DealPete/Sputnik/pull/13) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-5. 🎉 Merged PR [#12](https://github.com/DealPete/Sputnik/pull/12) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+1. 🎉 Merged PR [#14](https://github.com/DealPete/Sputnik/pull/14) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+2. 💪 Opened PR [#14](https://github.com/DealPete/Sputnik/pull/14) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+3. 💪 Opened PR [#39](https://github.com/lucanaef/PGPro/pull/39) in [lucanaef/PGPro](https://github.com/lucanaef/PGPro)
+4. ❗️ Opened issue [#38](https://github.com/lucanaef/PGPro/issues/38) in [lucanaef/PGPro](https://github.com/lucanaef/PGPro)
+5. 🎉 Merged PR [#13](https://github.com/DealPete/Sputnik/pull/13) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
 <!--END_SECTION:activity-->
 
 ### top programming languages

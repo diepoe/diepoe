@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#41](https://github.com/lucanaef/PGPro/issues/41) in [lucanaef/PGPro](https://github.com/lucanaef/PGPro)
-2. ❗️ Opened issue [#40](https://github.com/lucanaef/PGPro/issues/40) in [lucanaef/PGPro](https://github.com/lucanaef/PGPro)
-3. 🗣 Commented on [#17](https://github.com/DealPete/Sputnik/issues/17) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-4. 🎉 Merged PR [#18](https://github.com/DealPete/Sputnik/pull/18) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-5. 💪 Opened PR [#18](https://github.com/DealPete/Sputnik/pull/18) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+1. 🗣 Commented on [#17](https://github.com/DealPete/Sputnik/issues/17) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+2. ❗️ Opened issue [#41](https://github.com/lucanaef/PGPro/issues/41) in [lucanaef/PGPro](https://github.com/lucanaef/PGPro)
+3. ❗️ Opened issue [#40](https://github.com/lucanaef/PGPro/issues/40) in [lucanaef/PGPro](https://github.com/lucanaef/PGPro)
+4. 🗣 Commented on [#17](https://github.com/DealPete/Sputnik/issues/17) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+5. 🎉 Merged PR [#18](https://github.com/DealPete/Sputnik/pull/18) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
 <!--END_SECTION:activity-->
 
 ### top programming languages

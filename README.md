@@ -2,21 +2,6 @@
 
 This is my personal GitHub README. Here you can read something about me (very boring I guess).
 
-<!--
-**HAUDRAUFHAUN/HAUDRAUFHAUN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### 🤡 Here a joke because we live in sad times:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -69,4 +54,3 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [Sicher im Internet](https://haudraufhauns.vercel.app/blog/sicher-im-internet)
 - [Jekyll &amp; GitHub Pages Tutorial](https://haudraufhauns.vercel.app/blog/jekyll-tutorial/)
-

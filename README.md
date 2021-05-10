@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/DealPete/Sputnik/issues/17) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-2. 🗣 Commented on [#17](https://github.com/DealPete/Sputnik/issues/17) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-3. ❗️ Opened issue [#41](https://github.com/lucanaef/PGPro/issues/41) in [lucanaef/PGPro](https://github.com/lucanaef/PGPro)
-4. ❗️ Opened issue [#40](https://github.com/lucanaef/PGPro/issues/40) in [lucanaef/PGPro](https://github.com/lucanaef/PGPro)
-5. 🗣 Commented on [#17](https://github.com/DealPete/Sputnik/issues/17) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+1. ❗️ Opened issue [#866](https://github.com/rossjrw/rossjrw/issues/866) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+2. ❗️ Opened issue [#865](https://github.com/rossjrw/rossjrw/issues/865) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+3. 💪 Opened PR [#5](https://github.com/iSaluki/awesome-art/pull/5) in [iSaluki/awesome-art](https://github.com/iSaluki/awesome-art)
+4. 💪 Opened PR [#4](https://github.com/pavanjadhaw/spotifydl/pull/4) in [pavanjadhaw/spotifydl](https://github.com/pavanjadhaw/spotifydl)
+5. ❗️ Closed issue [#17](https://github.com/DealPete/Sputnik/issues/17) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
 <!--END_SECTION:activity-->
 
 ### top programming languages

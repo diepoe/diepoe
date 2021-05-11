@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#864](https://github.com/rossjrw/rossjrw/issues/864) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-2. ❗️ Opened issue [#866](https://github.com/rossjrw/rossjrw/issues/866) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-3. ❗️ Opened issue [#865](https://github.com/rossjrw/rossjrw/issues/865) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-4. 💪 Opened PR [#5](https://github.com/iSaluki/awesome-art/pull/5) in [iSaluki/awesome-art](https://github.com/iSaluki/awesome-art)
-5. 💪 Opened PR [#4](https://github.com/pavanjadhaw/spotifydl/pull/4) in [pavanjadhaw/spotifydl](https://github.com/pavanjadhaw/spotifydl)
+1. 🎉 Merged PR [#21](https://github.com/DealPete/Sputnik/pull/21) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+2. 🗣 Commented on [#21](https://github.com/DealPete/Sputnik/issues/21) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+3. 💪 Opened PR [#21](https://github.com/DealPete/Sputnik/pull/21) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+4. 🗣 Commented on [#864](https://github.com/rossjrw/rossjrw/issues/864) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+5. ❗️ Opened issue [#866](https://github.com/rossjrw/rossjrw/issues/866) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
 <!--END_SECTION:activity-->
 
 ### top programming languages

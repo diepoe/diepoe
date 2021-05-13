@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#40](https://github.com/lucanaef/PGPro/issues/40) in [lucanaef/PGPro](https://github.com/lucanaef/PGPro)
-2. 🗣 Commented on [#40](https://github.com/lucanaef/PGPro/issues/40) in [lucanaef/PGPro](https://github.com/lucanaef/PGPro)
-3. 🎉 Merged PR [#23](https://github.com/DealPete/Sputnik/pull/23) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-4. 💪 Opened PR [#23](https://github.com/DealPete/Sputnik/pull/23) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-5. 🎉 Merged PR [#22](https://github.com/DealPete/Sputnik/pull/22) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+1. 💪 Opened PR [#2](https://github.com/EtaletaiRecords/Sputnik/pull/2) in [EtaletaiRecords/Sputnik](https://github.com/EtaletaiRecords/Sputnik)
+2. ❗️ Closed issue [#40](https://github.com/lucanaef/PGPro/issues/40) in [lucanaef/PGPro](https://github.com/lucanaef/PGPro)
+3. 🗣 Commented on [#40](https://github.com/lucanaef/PGPro/issues/40) in [lucanaef/PGPro](https://github.com/lucanaef/PGPro)
+4. 🎉 Merged PR [#23](https://github.com/DealPete/Sputnik/pull/23) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+5. 💪 Opened PR [#23](https://github.com/DealPete/Sputnik/pull/23) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
 <!--END_SECTION:activity-->
 
 ### top programming languages

@@ -14,11 +14,7 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#233](https://github.com/svelte-society/sveltesociety.dev/pull/233) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-2. 🗣 Commented on [#223](https://github.com/svelte-society/sveltesociety.dev/issues/223) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-3. ❌ Closed PR [#212](https://github.com/svelte-society/sveltesociety.dev/pull/212) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-4. 🗣 Commented on [#212](https://github.com/svelte-society/sveltesociety.dev/issues/212) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-5. 🗣 Commented on [#223](https://github.com/svelte-society/sveltesociety.dev/issues/223) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+
 <!--END_SECTION:activity-->
 
 ### top programming languages

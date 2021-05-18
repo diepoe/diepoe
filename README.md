@@ -42,7 +42,7 @@ This is my personal GitHub README. Here you can read something about me (very bo
 - `Go`
 - `GraphQl`
 - `Flutter`
-- ˋSwift (UI)ˋ
+- `Swift (UI)`
 
 ## 📕 Latest Blog posts 
 

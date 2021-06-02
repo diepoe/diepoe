@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#249](https://github.com/dortania/OpenCore-Legacy-Patcher/pull/249) in [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
-2. 🗣 Commented on [#2](https://github.com/svelte-society/sveltesociety-2021/issues/2) in [svelte-society/sveltesociety-2021](https://github.com/svelte-society/sveltesociety-2021)
-3. 💪 Opened PR [#2](https://github.com/svelte-society/sveltesociety-2021/pull/2) in [svelte-society/sveltesociety-2021](https://github.com/svelte-society/sveltesociety-2021)
-4. 🗣 Commented on [#27](https://github.com/DealPete/Sputnik/issues/27) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-5. 🗣 Commented on [#1](https://github.com/svelte-society/sveltesociety-2021/issues/1) in [svelte-society/sveltesociety-2021](https://github.com/svelte-society/sveltesociety-2021)
+1. 🗣 Commented on [#120](https://github.com/barrykn/big-sur-micropatcher/issues/120) in [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher)
+2. 🗣 Commented on [#120](https://github.com/barrykn/big-sur-micropatcher/issues/120) in [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher)
+3. 💪 Opened PR [#249](https://github.com/dortania/OpenCore-Legacy-Patcher/pull/249) in [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+4. 🗣 Commented on [#2](https://github.com/svelte-society/sveltesociety-2021/issues/2) in [svelte-society/sveltesociety-2021](https://github.com/svelte-society/sveltesociety-2021)
+5. 💪 Opened PR [#2](https://github.com/svelte-society/sveltesociety-2021/pull/2) in [svelte-society/sveltesociety-2021](https://github.com/svelte-society/sveltesociety-2021)
 <!--END_SECTION:activity-->
 
 ### top programming languages

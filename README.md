@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/barrykn/big-sur-micropatcher/issues/120) in [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher)
-2. 🗣 Commented on [#27](https://github.com/DealPete/Sputnik/issues/27) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+1. ❗️ Opened issue [#367](https://github.com/marcizhu/marcizhu/issues/367) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+2. 🗣 Commented on [#120](https://github.com/barrykn/big-sur-micropatcher/issues/120) in [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher)
 3. 🗣 Commented on [#120](https://github.com/barrykn/big-sur-micropatcher/issues/120) in [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher)
-4. 🗣 Commented on [#120](https://github.com/barrykn/big-sur-micropatcher/issues/120) in [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher)
-5. 💪 Opened PR [#249](https://github.com/dortania/OpenCore-Legacy-Patcher/pull/249) in [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+4. 🗣 Commented on [#27](https://github.com/DealPete/Sputnik/issues/27) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+5. 🗣 Commented on [#120](https://github.com/barrykn/big-sur-micropatcher/issues/120) in [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher)
 <!--END_SECTION:activity-->
 
 ### top programming languages

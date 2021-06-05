@@ -14,10 +14,10 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#367](https://github.com/marcizhu/marcizhu/issues/367) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-2. 🗣 Commented on [#120](https://github.com/barrykn/big-sur-micropatcher/issues/120) in [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher)
-3. 🗣 Commented on [#120](https://github.com/barrykn/big-sur-micropatcher/issues/120) in [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher)
-4. 🗣 Commented on [#27](https://github.com/DealPete/Sputnik/issues/27) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+1. 🎉 Merged PR [#8](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/8) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
+2. 🎉 Merged PR [#9](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/9) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
+3. ❗️ Opened issue [#367](https://github.com/marcizhu/marcizhu/issues/367) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+4. 🗣 Commented on [#120](https://github.com/barrykn/big-sur-micropatcher/issues/120) in [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher)
 5. 🗣 Commented on [#120](https://github.com/barrykn/big-sur-micropatcher/issues/120) in [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher)
 <!--END_SECTION:activity-->
 

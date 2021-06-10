@@ -34,6 +34,8 @@ This is my personal GitHub README. Here you can read something about me (very bo
 
 🌍 <a href="https://haudraufhauns.vercel.app/">My personal website and blog</a>
 
+🏫 HEG Schedule
+
 
 ## 🌱 I’m currently using following technologies ...
 

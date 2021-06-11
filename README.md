@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/12) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
-2. 🎉 Merged PR [#13](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/13) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
-3. 🎉 Merged PR [#10](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/10) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
-4. 🎉 Merged PR [#11](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/11) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
-5. 🎉 Merged PR [#8](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/8) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
+1. 🎉 Merged PR [#7](https://github.com/HAUDRAUFHAUN/simple-blog-django/pull/7) in [HAUDRAUFHAUN/simple-blog-django](https://github.com/HAUDRAUFHAUN/simple-blog-django)
+2. 🎉 Merged PR [#6](https://github.com/HAUDRAUFHAUN/simple-blog-django/pull/6) in [HAUDRAUFHAUN/simple-blog-django](https://github.com/HAUDRAUFHAUN/simple-blog-django)
+3. 🎉 Merged PR [#12](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/12) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
+4. 🎉 Merged PR [#13](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/13) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
+5. 🎉 Merged PR [#10](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/10) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
 <!--END_SECTION:activity-->
 
 ### top programming languages

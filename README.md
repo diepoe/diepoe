@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/jjranalli/nightwind/issues/13) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
-2. 🗣 Commented on [#4](https://github.com/svelte-society/sveltesociety-2021/issues/4) in [svelte-society/sveltesociety-2021](https://github.com/svelte-society/sveltesociety-2021)
-3. 🎉 Merged PR [#7](https://github.com/HAUDRAUFHAUN/simple-blog-django/pull/7) in [HAUDRAUFHAUN/simple-blog-django](https://github.com/HAUDRAUFHAUN/simple-blog-django)
-4. 🎉 Merged PR [#6](https://github.com/HAUDRAUFHAUN/simple-blog-django/pull/6) in [HAUDRAUFHAUN/simple-blog-django](https://github.com/HAUDRAUFHAUN/simple-blog-django)
-5. 🎉 Merged PR [#12](https://github.com/HAUDRAUFHAUN/pmoney-calc/pull/12) in [HAUDRAUFHAUN/pmoney-calc](https://github.com/HAUDRAUFHAUN/pmoney-calc)
+1. ❗️ Opened issue [#43](https://github.com/mbrlabs/Lorien/issues/43) in [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien)
+2. 🗣 Commented on [#13](https://github.com/jjranalli/nightwind/issues/13) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
+3. 🗣 Commented on [#4](https://github.com/svelte-society/sveltesociety-2021/issues/4) in [svelte-society/sveltesociety-2021](https://github.com/svelte-society/sveltesociety-2021)
+4. 🎉 Merged PR [#7](https://github.com/HAUDRAUFHAUN/simple-blog-django/pull/7) in [HAUDRAUFHAUN/simple-blog-django](https://github.com/HAUDRAUFHAUN/simple-blog-django)
+5. 🎉 Merged PR [#6](https://github.com/HAUDRAUFHAUN/simple-blog-django/pull/6) in [HAUDRAUFHAUN/simple-blog-django](https://github.com/HAUDRAUFHAUN/simple-blog-django)
 <!--END_SECTION:activity-->
 
 ### top programming languages

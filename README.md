@@ -15,10 +15,10 @@ This is my personal GitHub README. Here you can read something about me (very bo
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#27](https://github.com/DealPete/Sputnik/issues/27) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-2. 🗣 Commented on [#43](https://github.com/mbrlabs/Lorien/issues/43) in [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien)
-3. ❗️ Opened issue [#43](https://github.com/mbrlabs/Lorien/issues/43) in [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien)
-4. 🗣 Commented on [#13](https://github.com/jjranalli/nightwind/issues/13) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
-5. 🗣 Commented on [#4](https://github.com/svelte-society/sveltesociety-2021/issues/4) in [svelte-society/sveltesociety-2021](https://github.com/svelte-society/sveltesociety-2021)
+2. 🗣 Commented on [#27](https://github.com/DealPete/Sputnik/issues/27) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
+3. 🗣 Commented on [#43](https://github.com/mbrlabs/Lorien/issues/43) in [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien)
+4. ❗️ Opened issue [#43](https://github.com/mbrlabs/Lorien/issues/43) in [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien)
+5. 🗣 Commented on [#13](https://github.com/jjranalli/nightwind/issues/13) in [jjranalli/nightwind](https://github.com/jjranalli/nightwind)
 <!--END_SECTION:activity-->
 
 ### top programming languages

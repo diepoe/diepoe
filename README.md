@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5771](https://github.com/nadimkobeissi/appleprivacyletter/issues/5771) in [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter)
-2. 🗣 Commented on [#27](https://github.com/DealPete/Sputnik/issues/27) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-3. 🗣 Commented on [#27](https://github.com/DealPete/Sputnik/issues/27) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
-4. 🗣 Commented on [#43](https://github.com/mbrlabs/Lorien/issues/43) in [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien)
-5. ❗️ Opened issue [#43](https://github.com/mbrlabs/Lorien/issues/43) in [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien)
+1. 🎉 Merged PR [#2](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io/pull/2) in [HAUDRAUFHAUN/HAUDRAUFHAUN.github.io](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io)
+2. 🎉 Merged PR [#1](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io/pull/1) in [HAUDRAUFHAUN/HAUDRAUFHAUN.github.io](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io)
+3. 🎉 Merged PR [#3](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io/pull/3) in [HAUDRAUFHAUN/HAUDRAUFHAUN.github.io](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io)
+4. ❗️ Opened issue [#5771](https://github.com/nadimkobeissi/appleprivacyletter/issues/5771) in [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter)
+5. 🗣 Commented on [#27](https://github.com/DealPete/Sputnik/issues/27) in [DealPete/Sputnik](https://github.com/DealPete/Sputnik)
 <!--END_SECTION:activity-->
 
 ### top programming languages

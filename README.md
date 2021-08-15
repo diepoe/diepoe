@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/svelte-society/sveltesociety.dev/issues/60) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-2. 🎉 Merged PR [#2](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io/pull/2) in [HAUDRAUFHAUN/HAUDRAUFHAUN.github.io](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io)
-3. 🎉 Merged PR [#1](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io/pull/1) in [HAUDRAUFHAUN/HAUDRAUFHAUN.github.io](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io)
-4. 🎉 Merged PR [#3](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io/pull/3) in [HAUDRAUFHAUN/HAUDRAUFHAUN.github.io](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io)
-5. ❗️ Opened issue [#5771](https://github.com/nadimkobeissi/appleprivacyletter/issues/5771) in [nadimkobeissi/appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter)
+1. 💪 Opened PR [#66](https://github.com/svelte-society/sveltesociety.dev/pull/66) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+2. 🗣 Commented on [#60](https://github.com/svelte-society/sveltesociety.dev/issues/60) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+3. 🎉 Merged PR [#2](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io/pull/2) in [HAUDRAUFHAUN/HAUDRAUFHAUN.github.io](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io)
+4. 🎉 Merged PR [#1](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io/pull/1) in [HAUDRAUFHAUN/HAUDRAUFHAUN.github.io](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io)
+5. 🎉 Merged PR [#3](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io/pull/3) in [HAUDRAUFHAUN/HAUDRAUFHAUN.github.io](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io)
 <!--END_SECTION:activity-->
 
 ### top programming languages

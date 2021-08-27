@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Luca180405/music_lobby/pull/1) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
-2. 💪 Opened PR [#523](https://github.com/statamic/docs/pull/523) in [statamic/docs](https://github.com/statamic/docs)
-3. 💪 Opened PR [#66](https://github.com/svelte-society/sveltesociety.dev/pull/66) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-4. 🗣 Commented on [#60](https://github.com/svelte-society/sveltesociety.dev/issues/60) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-5. 🎉 Merged PR [#2](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io/pull/2) in [HAUDRAUFHAUN/HAUDRAUFHAUN.github.io](https://github.com/HAUDRAUFHAUN/HAUDRAUFHAUN.github.io)
+1. 💪 Opened PR [#4](https://github.com/Luca180405/music_lobby/pull/4) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
+2. 💪 Opened PR [#1](https://github.com/Luca180405/music_lobby/pull/1) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
+3. 💪 Opened PR [#523](https://github.com/statamic/docs/pull/523) in [statamic/docs](https://github.com/statamic/docs)
+4. 💪 Opened PR [#66](https://github.com/svelte-society/sveltesociety.dev/pull/66) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+5. 🗣 Commented on [#60](https://github.com/svelte-society/sveltesociety.dev/issues/60) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 
 ### top programming languages

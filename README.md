@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/svelte-society/sveltesociety.dev/issues/82) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-2. 💪 Opened PR [#82](https://github.com/svelte-society/sveltesociety.dev/pull/82) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-3. 💪 Opened PR [#5](https://github.com/Luca180405/music_lobby/pull/5) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
-4. 💪 Opened PR [#4](https://github.com/Luca180405/music_lobby/pull/4) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
-5. 💪 Opened PR [#1](https://github.com/Luca180405/music_lobby/pull/1) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
+1. 💪 Opened PR [#86](https://github.com/svelte-society/sveltesociety.dev/pull/86) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+2. 🗣 Commented on [#82](https://github.com/svelte-society/sveltesociety.dev/issues/82) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+3. 💪 Opened PR [#82](https://github.com/svelte-society/sveltesociety.dev/pull/82) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+4. 💪 Opened PR [#5](https://github.com/Luca180405/music_lobby/pull/5) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
+5. 💪 Opened PR [#4](https://github.com/Luca180405/music_lobby/pull/4) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
 <!--END_SECTION:activity-->
 
 ### top programming languages

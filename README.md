@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Luca180405/music_lobby/pull/9) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
-2. 💪 Opened PR [#8](https://github.com/Luca180405/music_lobby/pull/8) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
-3. 💪 Opened PR [#7](https://github.com/Luca180405/music_lobby/pull/7) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
-4. ❗️ Opened issue [#11](https://github.com/bartholomej/svelte-sitemap/issues/11) in [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap)
-5. 🗣 Commented on [#86](https://github.com/svelte-society/sveltesociety.dev/issues/86) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+1. 🗣 Commented on [#11](https://github.com/bartholomej/svelte-sitemap/issues/11) in [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap)
+2. 💪 Opened PR [#9](https://github.com/Luca180405/music_lobby/pull/9) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
+3. 💪 Opened PR [#8](https://github.com/Luca180405/music_lobby/pull/8) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
+4. 💪 Opened PR [#7](https://github.com/Luca180405/music_lobby/pull/7) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
+5. ❗️ Opened issue [#11](https://github.com/bartholomej/svelte-sitemap/issues/11) in [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap)
 <!--END_SECTION:activity-->
 
 ### top programming languages

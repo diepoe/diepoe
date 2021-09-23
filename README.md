@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/HAUDRAUFHAUN/simple-blog-django/pull/8) in [HAUDRAUFHAUN/simple-blog-django](https://github.com/HAUDRAUFHAUN/simple-blog-django)
-2. 🗣 Commented on [#11](https://github.com/bartholomej/svelte-sitemap/issues/11) in [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap)
-3. 💪 Opened PR [#9](https://github.com/Luca180405/music_lobby/pull/9) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
-4. 💪 Opened PR [#8](https://github.com/Luca180405/music_lobby/pull/8) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
-5. 💪 Opened PR [#7](https://github.com/Luca180405/music_lobby/pull/7) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
+1. 🎉 Merged PR [#14](https://github.com/haudraufhaun/pmoney-calc/pull/14) in [haudraufhaun/pmoney-calc](https://github.com/haudraufhaun/pmoney-calc)
+2. 🎉 Merged PR [#15](https://github.com/haudraufhaun/pmoney-calc/pull/15) in [haudraufhaun/pmoney-calc](https://github.com/haudraufhaun/pmoney-calc)
+3. 🎉 Merged PR [#8](https://github.com/HAUDRAUFHAUN/simple-blog-django/pull/8) in [HAUDRAUFHAUN/simple-blog-django](https://github.com/HAUDRAUFHAUN/simple-blog-django)
+4. 🗣 Commented on [#11](https://github.com/bartholomej/svelte-sitemap/issues/11) in [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap)
+5. 💪 Opened PR [#9](https://github.com/Luca180405/music_lobby/pull/9) in [Luca180405/music_lobby](https://github.com/Luca180405/music_lobby)
 <!--END_SECTION:activity-->
 
 ### ⬆️ top programming languages

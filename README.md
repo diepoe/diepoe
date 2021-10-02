@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/MacPass/macpass.github.io/pull/10) in [MacPass/macpass.github.io](https://github.com/MacPass/macpass.github.io)
-2. 🗣 Commented on [#7](https://github.com/MacPass/macpass.github.io/issues/7) in [MacPass/macpass.github.io](https://github.com/MacPass/macpass.github.io)
-3. 🎉 Merged PR [#14](https://github.com/haudraufhaun/pmoney-calc/pull/14) in [haudraufhaun/pmoney-calc](https://github.com/haudraufhaun/pmoney-calc)
-4. 🎉 Merged PR [#15](https://github.com/haudraufhaun/pmoney-calc/pull/15) in [haudraufhaun/pmoney-calc](https://github.com/haudraufhaun/pmoney-calc)
-5. 🎉 Merged PR [#8](https://github.com/HAUDRAUFHAUN/simple-blog-django/pull/8) in [HAUDRAUFHAUN/simple-blog-django](https://github.com/HAUDRAUFHAUN/simple-blog-django)
+1. ❗️ Opened issue [#133](https://github.com/svelte-society/sveltesociety.dev/issues/133) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+2. 🗣 Commented on [#132](https://github.com/svelte-society/sveltesociety.dev/issues/132) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+3. 💪 Opened PR [#10](https://github.com/MacPass/macpass.github.io/pull/10) in [MacPass/macpass.github.io](https://github.com/MacPass/macpass.github.io)
+4. 🗣 Commented on [#7](https://github.com/MacPass/macpass.github.io/issues/7) in [MacPass/macpass.github.io](https://github.com/MacPass/macpass.github.io)
+5. 🎉 Merged PR [#14](https://github.com/haudraufhaun/pmoney-calc/pull/14) in [haudraufhaun/pmoney-calc](https://github.com/haudraufhaun/pmoney-calc)
 <!--END_SECTION:activity-->
 
 ### ⬆️ top programming languages

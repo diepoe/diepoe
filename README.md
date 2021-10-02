@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/MacPass/macpass.github.io/issues/7) in [MacPass/macpass.github.io](https://github.com/MacPass/macpass.github.io)
-2. 🎉 Merged PR [#14](https://github.com/haudraufhaun/pmoney-calc/pull/14) in [haudraufhaun/pmoney-calc](https://github.com/haudraufhaun/pmoney-calc)
-3. 🎉 Merged PR [#15](https://github.com/haudraufhaun/pmoney-calc/pull/15) in [haudraufhaun/pmoney-calc](https://github.com/haudraufhaun/pmoney-calc)
-4. 🎉 Merged PR [#8](https://github.com/HAUDRAUFHAUN/simple-blog-django/pull/8) in [HAUDRAUFHAUN/simple-blog-django](https://github.com/HAUDRAUFHAUN/simple-blog-django)
-5. 🗣 Commented on [#11](https://github.com/bartholomej/svelte-sitemap/issues/11) in [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap)
+1. 💪 Opened PR [#10](https://github.com/MacPass/macpass.github.io/pull/10) in [MacPass/macpass.github.io](https://github.com/MacPass/macpass.github.io)
+2. 🗣 Commented on [#7](https://github.com/MacPass/macpass.github.io/issues/7) in [MacPass/macpass.github.io](https://github.com/MacPass/macpass.github.io)
+3. 🎉 Merged PR [#14](https://github.com/haudraufhaun/pmoney-calc/pull/14) in [haudraufhaun/pmoney-calc](https://github.com/haudraufhaun/pmoney-calc)
+4. 🎉 Merged PR [#15](https://github.com/haudraufhaun/pmoney-calc/pull/15) in [haudraufhaun/pmoney-calc](https://github.com/haudraufhaun/pmoney-calc)
+5. 🎉 Merged PR [#8](https://github.com/HAUDRAUFHAUN/simple-blog-django/pull/8) in [HAUDRAUFHAUN/simple-blog-django](https://github.com/HAUDRAUFHAUN/simple-blog-django)
 <!--END_SECTION:activity-->
 
 ### ⬆️ top programming languages

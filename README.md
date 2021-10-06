@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/MacPass/macpass.github.io/issues/10) in [MacPass/macpass.github.io](https://github.com/MacPass/macpass.github.io)
-2. 🗣 Commented on [#136](https://github.com/svelte-society/sveltesociety.dev/issues/136) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-3. 🗣 Commented on [#136](https://github.com/svelte-society/sveltesociety.dev/issues/136) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-4. 💪 Opened PR [#136](https://github.com/svelte-society/sveltesociety.dev/pull/136) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-5. 🗣 Commented on [#134](https://github.com/svelte-society/sveltesociety.dev/issues/134) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+1. ❗️ Closed issue [#133](https://github.com/svelte-society/sveltesociety.dev/issues/133) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+2. 🗣 Commented on [#133](https://github.com/svelte-society/sveltesociety.dev/issues/133) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+3. 🗣 Commented on [#10](https://github.com/MacPass/macpass.github.io/issues/10) in [MacPass/macpass.github.io](https://github.com/MacPass/macpass.github.io)
+4. 🗣 Commented on [#136](https://github.com/svelte-society/sveltesociety.dev/issues/136) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+5. 🗣 Commented on [#136](https://github.com/svelte-society/sveltesociety.dev/issues/136) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 
 ### ⬆️ top programming languages

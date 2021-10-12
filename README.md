@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/svelte-society/sveltesociety.dev/issues/142) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-2. 💪 Opened PR [#144](https://github.com/svelte-society/sveltesociety.dev/pull/144) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-3. 🗣 Commented on [#142](https://github.com/svelte-society/sveltesociety.dev/issues/142) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+1. ❗️ Closed issue [#11](https://github.com/bartholomej/svelte-sitemap/issues/11) in [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap)
+2. 🗣 Commented on [#11](https://github.com/bartholomej/svelte-sitemap/issues/11) in [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap)
+3. 🗣 Commented on [#11](https://github.com/bartholomej/svelte-sitemap/issues/11) in [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap)
 4. 🗣 Commented on [#142](https://github.com/svelte-society/sveltesociety.dev/issues/142) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
-5. 💪 Opened PR [#142](https://github.com/svelte-society/sveltesociety.dev/pull/142) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
+5. 💪 Opened PR [#144](https://github.com/svelte-society/sveltesociety.dev/pull/144) in [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev)
 <!--END_SECTION:activity-->
 
 ### ⬆️ top programming languages

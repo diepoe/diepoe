@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#703](https://github.com/EclipseFdn/open-vsx.org/issues/703) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-2. 💪 Opened PR [#109](https://github.com/roxiness/routify-starter/pull/109) in [roxiness/routify-starter](https://github.com/roxiness/routify-starter)
-3. ❗️ Closed issue [#11](https://github.com/bartholomej/svelte-sitemap/issues/11) in [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap)
-4. 🗣 Commented on [#11](https://github.com/bartholomej/svelte-sitemap/issues/11) in [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap)
-5. 🗣 Commented on [#11](https://github.com/bartholomej/svelte-sitemap/issues/11) in [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap)
+1. 🗣 Commented on [#703](https://github.com/EclipseFdn/open-vsx.org/issues/703) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+2. 🎉 Merged PR [#1](https://github.com/haudraufhaun/hyper-is-theme/pull/1) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
+3. ❗️ Opened issue [#703](https://github.com/EclipseFdn/open-vsx.org/issues/703) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+4. 💪 Opened PR [#109](https://github.com/roxiness/routify-starter/pull/109) in [roxiness/routify-starter](https://github.com/roxiness/routify-starter)
+5. ❗️ Closed issue [#11](https://github.com/bartholomej/svelte-sitemap/issues/11) in [bartholomej/svelte-sitemap](https://github.com/bartholomej/svelte-sitemap)
 <!--END_SECTION:activity-->
 
 ### ⬆️ top programming languages

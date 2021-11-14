@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#50](https://github.com/defringe/verminal/issues/50) in [defringe/verminal](https://github.com/defringe/verminal)
-2. ❗️ Opened issue [#3](https://github.com/haudraufhaun/hyper-is-theme/issues/3) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
-3. ❗️ Closed issue [#2](https://github.com/haudraufhaun/hyper-is-theme/issues/2) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
-4. 🗣 Commented on [#2](https://github.com/haudraufhaun/hyper-is-theme/issues/2) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
-5. 🗣 Commented on [#703](https://github.com/EclipseFdn/open-vsx.org/issues/703) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+1. 💪 Opened PR [#601](https://github.com/statamic/docs/pull/601) in [statamic/docs](https://github.com/statamic/docs)
+2. ❗️ Opened issue [#50](https://github.com/defringe/verminal/issues/50) in [defringe/verminal](https://github.com/defringe/verminal)
+3. ❗️ Opened issue [#3](https://github.com/haudraufhaun/hyper-is-theme/issues/3) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
+4. ❗️ Closed issue [#2](https://github.com/haudraufhaun/hyper-is-theme/issues/2) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
+5. 🗣 Commented on [#2](https://github.com/haudraufhaun/hyper-is-theme/issues/2) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
 <!--END_SECTION:activity-->
 
 ### ⬆️ top programming languages

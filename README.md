@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/haudraufhaun/hyper-is-theme/issues/3) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
-2. 💪 Opened PR [#601](https://github.com/statamic/docs/pull/601) in [statamic/docs](https://github.com/statamic/docs)
-3. ❗️ Opened issue [#50](https://github.com/defringe/verminal/issues/50) in [defringe/verminal](https://github.com/defringe/verminal)
-4. ❗️ Opened issue [#3](https://github.com/haudraufhaun/hyper-is-theme/issues/3) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
-5. ❗️ Closed issue [#2](https://github.com/haudraufhaun/hyper-is-theme/issues/2) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
+1. 🎉 Merged PR [#4](https://github.com/haudraufhaun/hyper-is-theme/pull/4) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
+2. 💪 Opened PR [#4](https://github.com/haudraufhaun/hyper-is-theme/pull/4) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
+3. 🗣 Commented on [#3](https://github.com/haudraufhaun/hyper-is-theme/issues/3) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
+4. 💪 Opened PR [#601](https://github.com/statamic/docs/pull/601) in [statamic/docs](https://github.com/statamic/docs)
+5. ❗️ Opened issue [#50](https://github.com/defringe/verminal/issues/50) in [defringe/verminal](https://github.com/defringe/verminal)
 <!--END_SECTION:activity-->
 
 ### ⬆️ top programming languages

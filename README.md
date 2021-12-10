@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/HEG-Uelzen/limonadenfabrik/pull/1) in [HEG-Uelzen/limonadenfabrik](https://github.com/HEG-Uelzen/limonadenfabrik)
-2. 🗣 Commented on [#1](https://github.com/HEG-Uelzen/limonadenfabrik/issues/1) in [HEG-Uelzen/limonadenfabrik](https://github.com/HEG-Uelzen/limonadenfabrik)
-3. 🎉 Merged PR [#4](https://github.com/haudraufhaun/hyper-is-theme/pull/4) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
-4. 💪 Opened PR [#4](https://github.com/haudraufhaun/hyper-is-theme/pull/4) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
-5. 🗣 Commented on [#3](https://github.com/haudraufhaun/hyper-is-theme/issues/3) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
+1. 🎉 Merged PR [#1](https://github.com/HEG-Uelzen/webdev-endgegner/pull/1) in [HEG-Uelzen/webdev-endgegner](https://github.com/HEG-Uelzen/webdev-endgegner)
+2. 🗣 Commented on [#1](https://github.com/HEG-Uelzen/webdev-endgegner/issues/1) in [HEG-Uelzen/webdev-endgegner](https://github.com/HEG-Uelzen/webdev-endgegner)
+3. 🎉 Merged PR [#1](https://github.com/HEG-Uelzen/limonadenfabrik/pull/1) in [HEG-Uelzen/limonadenfabrik](https://github.com/HEG-Uelzen/limonadenfabrik)
+4. 🗣 Commented on [#1](https://github.com/HEG-Uelzen/limonadenfabrik/issues/1) in [HEG-Uelzen/limonadenfabrik](https://github.com/HEG-Uelzen/limonadenfabrik)
+5. 🎉 Merged PR [#4](https://github.com/haudraufhaun/hyper-is-theme/pull/4) in [haudraufhaun/hyper-is-theme](https://github.com/haudraufhaun/hyper-is-theme)
 <!--END_SECTION:activity-->
 
 ### ⬆️ top programming languages

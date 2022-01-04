@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#241](https://github.com/roxiness/routify.dev/pull/241) in [roxiness/routify.dev](https://github.com/roxiness/routify.dev)
-2. 🎉 Merged PR [#1](https://github.com/HEG-Uelzen/webdev-endgegner/pull/1) in [HEG-Uelzen/webdev-endgegner](https://github.com/HEG-Uelzen/webdev-endgegner)
-3. 🗣 Commented on [#1](https://github.com/HEG-Uelzen/webdev-endgegner/issues/1) in [HEG-Uelzen/webdev-endgegner](https://github.com/HEG-Uelzen/webdev-endgegner)
-4. 🎉 Merged PR [#1](https://github.com/HEG-Uelzen/limonadenfabrik/pull/1) in [HEG-Uelzen/limonadenfabrik](https://github.com/HEG-Uelzen/limonadenfabrik)
-5. 🗣 Commented on [#1](https://github.com/HEG-Uelzen/limonadenfabrik/issues/1) in [HEG-Uelzen/limonadenfabrik](https://github.com/HEG-Uelzen/limonadenfabrik)
+1. 🎉 Merged PR [#1](https://github.com/haudraufhaun/HEG-Schedule/pull/1) in [haudraufhaun/HEG-Schedule](https://github.com/haudraufhaun/HEG-Schedule)
+2. 💪 Opened PR [#1](https://github.com/haudraufhaun/HEG-Schedule/pull/1) in [haudraufhaun/HEG-Schedule](https://github.com/haudraufhaun/HEG-Schedule)
+3. 💪 Opened PR [#241](https://github.com/roxiness/routify.dev/pull/241) in [roxiness/routify.dev](https://github.com/roxiness/routify.dev)
+4. 🎉 Merged PR [#1](https://github.com/HEG-Uelzen/webdev-endgegner/pull/1) in [HEG-Uelzen/webdev-endgegner](https://github.com/HEG-Uelzen/webdev-endgegner)
+5. 🗣 Commented on [#1](https://github.com/HEG-Uelzen/webdev-endgegner/issues/1) in [HEG-Uelzen/webdev-endgegner](https://github.com/HEG-Uelzen/webdev-endgegner)
 <!--END_SECTION:activity-->
 
 ### ⬆️ top programming languages

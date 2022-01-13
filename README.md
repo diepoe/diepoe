@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/haudraufhaun/sturm-drang/pull/1) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
-2. 💪 Opened PR [#1](https://github.com/haudraufhaun/sturm-drang/pull/1) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
-3. 🎉 Merged PR [#1](https://github.com/haudraufhaun/HEG-Schedule/pull/1) in [haudraufhaun/HEG-Schedule](https://github.com/haudraufhaun/HEG-Schedule)
-4. 💪 Opened PR [#1](https://github.com/haudraufhaun/HEG-Schedule/pull/1) in [haudraufhaun/HEG-Schedule](https://github.com/haudraufhaun/HEG-Schedule)
-5. 💪 Opened PR [#241](https://github.com/roxiness/routify.dev/pull/241) in [roxiness/routify.dev](https://github.com/roxiness/routify.dev)
+1. 🎉 Merged PR [#11](https://github.com/haudraufhaun/simple-blog-django/pull/11) in [haudraufhaun/simple-blog-django](https://github.com/haudraufhaun/simple-blog-django)
+2. 🎉 Merged PR [#10](https://github.com/haudraufhaun/simple-blog-django/pull/10) in [haudraufhaun/simple-blog-django](https://github.com/haudraufhaun/simple-blog-django)
+3. 🎉 Merged PR [#9](https://github.com/haudraufhaun/simple-blog-django/pull/9) in [haudraufhaun/simple-blog-django](https://github.com/haudraufhaun/simple-blog-django)
+4. 🎉 Merged PR [#1](https://github.com/haudraufhaun/sturm-drang/pull/1) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
+5. 💪 Opened PR [#1](https://github.com/haudraufhaun/sturm-drang/pull/1) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
 <!--END_SECTION:activity-->
 
 ### ⬆️ top programming languages

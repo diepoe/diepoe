@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/haudraufhaun/sturm-drang/pull/2) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
-2. 🗣 Commented on [#2](https://github.com/haudraufhaun/sturm-drang/issues/2) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
-3. 🎉 Merged PR [#11](https://github.com/haudraufhaun/simple-blog-django/pull/11) in [haudraufhaun/simple-blog-django](https://github.com/haudraufhaun/simple-blog-django)
-4. 🎉 Merged PR [#10](https://github.com/haudraufhaun/simple-blog-django/pull/10) in [haudraufhaun/simple-blog-django](https://github.com/haudraufhaun/simple-blog-django)
-5. 🎉 Merged PR [#9](https://github.com/haudraufhaun/simple-blog-django/pull/9) in [haudraufhaun/simple-blog-django](https://github.com/haudraufhaun/simple-blog-django)
+1. 🗣 Commented on [#3](https://github.com/haudraufhaun/sturm-drang/issues/3) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
+2. 🎉 Merged PR [#2](https://github.com/haudraufhaun/sturm-drang/pull/2) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
+3. 🗣 Commented on [#2](https://github.com/haudraufhaun/sturm-drang/issues/2) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
+4. 🎉 Merged PR [#11](https://github.com/haudraufhaun/simple-blog-django/pull/11) in [haudraufhaun/simple-blog-django](https://github.com/haudraufhaun/simple-blog-django)
+5. 🎉 Merged PR [#10](https://github.com/haudraufhaun/simple-blog-django/pull/10) in [haudraufhaun/simple-blog-django](https://github.com/haudraufhaun/simple-blog-django)
 <!--END_SECTION:activity-->
 
 ### ⬆️ top programming languages

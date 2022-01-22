@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/haudraufhaun/sturm-drang/pull/6) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
-2. 🗣 Commented on [#6](https://github.com/haudraufhaun/sturm-drang/issues/6) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
-3. 🗣 Commented on [#8](https://github.com/alvarosabu/slidev-theme-penguin/issues/8) in [alvarosabu/slidev-theme-penguin](https://github.com/alvarosabu/slidev-theme-penguin)
-4. 🎉 Merged PR [#4](https://github.com/haudraufhaun/sturm-drang/pull/4) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
-5. 💪 Opened PR [#4](https://github.com/haudraufhaun/sturm-drang/pull/4) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
+1. 🎉 Merged PR [#7](https://github.com/haudraufhaun/sturm-drang/pull/7) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
+2. 🗣 Commented on [#7](https://github.com/haudraufhaun/sturm-drang/issues/7) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
+3. 🎉 Merged PR [#6](https://github.com/haudraufhaun/sturm-drang/pull/6) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
+4. 🗣 Commented on [#6](https://github.com/haudraufhaun/sturm-drang/issues/6) in [haudraufhaun/sturm-drang](https://github.com/haudraufhaun/sturm-drang)
+5. 🗣 Commented on [#8](https://github.com/alvarosabu/slidev-theme-penguin/issues/8) in [alvarosabu/slidev-theme-penguin](https://github.com/alvarosabu/slidev-theme-penguin)
 <!--END_SECTION:activity-->
 
 ### ⬆️ top programming languages

@@ -14,11 +14,11 @@ This is my personal GitHub README. Here you can read something about me (very bo
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/haudraufhaun/referat-stellvertreterkriege/pull/1) in [haudraufhaun/referat-stellvertreterkriege](https://github.com/haudraufhaun/referat-stellvertreterkriege)
-2. 🗣 Commented on [#11](https://github.com/MacPass/macpass.github.io/issues/11) in [MacPass/macpass.github.io](https://github.com/MacPass/macpass.github.io)
-3. 🎉 Merged PR [#1](https://github.com/haudraufhaun/sveltekit-bootstrap/pull/1) in [haudraufhaun/sveltekit-bootstrap](https://github.com/haudraufhaun/sveltekit-bootstrap)
-4. 🗣 Commented on [#1](https://github.com/haudraufhaun/sveltekit-bootstrap/issues/1) in [haudraufhaun/sveltekit-bootstrap](https://github.com/haudraufhaun/sveltekit-bootstrap)
-5. 💪 Opened PR [#11](https://github.com/MacPass/macpass.github.io/pull/11) in [MacPass/macpass.github.io](https://github.com/MacPass/macpass.github.io)
+1. 🎉 Merged PR [#2](https://github.com/HEG-Uelzen/webdev-endgegner/pull/2) in [HEG-Uelzen/webdev-endgegner](https://github.com/HEG-Uelzen/webdev-endgegner)
+2. ❌ Closed PR [#1](https://github.com/haudraufhaun/referat-stellvertreterkriege/pull/1) in [haudraufhaun/referat-stellvertreterkriege](https://github.com/haudraufhaun/referat-stellvertreterkriege)
+3. 🗣 Commented on [#11](https://github.com/MacPass/macpass.github.io/issues/11) in [MacPass/macpass.github.io](https://github.com/MacPass/macpass.github.io)
+4. 🎉 Merged PR [#1](https://github.com/haudraufhaun/sveltekit-bootstrap/pull/1) in [haudraufhaun/sveltekit-bootstrap](https://github.com/haudraufhaun/sveltekit-bootstrap)
+5. 🗣 Commented on [#1](https://github.com/haudraufhaun/sveltekit-bootstrap/issues/1) in [haudraufhaun/sveltekit-bootstrap](https://github.com/haudraufhaun/sveltekit-bootstrap)
 <!--END_SECTION:activity-->
 
 ### ⬆️ top programming languages

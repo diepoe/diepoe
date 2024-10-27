@@ -1,7 +1,5 @@
 ### Hi there, I'm Dietrich 👋
 
-This is my personal GitHub README. Here you can read something about me (very boring I guess).
-
 ### Here a joke because:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
